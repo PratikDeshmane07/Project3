@@ -50,7 +50,6 @@ def home():
 @app.route("/api/v1.0/kayak_restaurants_data")
 def restaurant_data():
    
-   # Query to retrieve the date and precipitation scores
    start_session()
    results=session.query(restaurants).all()   
    close_session()
