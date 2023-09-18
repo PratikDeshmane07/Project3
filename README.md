@@ -3,12 +3,15 @@ Group3-Project 3 // LINK to Project Proposal (Images):
 https://docs.google.com/document/d/1W9PH4cZvq_cBdmE26OEKXz2jtCahiN0wbB1KhQta-Xc/edit?usp=sharing
 
 0 // Group Members ////////////////////////////////////////////
+
 Pratik Deshmane // Eric Huynh // Calvin Kleber // Prachi Shingvi // Mike Strati
 
 1 // Selecting a topic /////////////////////////////////////////
+
 Restaurants in New York City based on common Yelp Data(Hours, Rating, Price, Cuisine) and NYC Code Violations Data.
 
 2 // Finding a dataset // Our Datasets //////////////////////////
+
 Our Datasets are as follows:
 
 -Restaurant Inspection Data NYC
@@ -25,6 +28,7 @@ https://www.kaggle.com/datasets/saikashyapcheruku/nyc-restaurants
 LINK TBD
 
 3 // Finding inspiration ///////////////////////////////////////////
+
 The primary Filters/Views that we have planned as Menu Selections ( i.e. Columns pulled from the DataSets ) will be as follows:
 
 +MOST REVIEWED // checkbox
@@ -38,4 +42,5 @@ The primary Filters/Views that we have planned as Menu Selections ( i.e. Columns
 -Similar Project: Deep Dive into NYC Restaurants // https://rspiro9.github.io/nyc_restaurant_yelp_and_inspection_analysis
 
 4 // “Sketching” your ideal visuals //////////////////////////////
+
 -SEE IMAGES: https://docs.google.com/document/d/1W9PH4cZvq_cBdmE26OEKXz2jtCahiN0wbB1KhQta-Xc/edit?usp=sharing
