@@ -8,7 +8,7 @@ Pratik Deshmane // Eric Huynh // Calvin Kleber // Prachi Shingvi // Mike Strati
 
 // 1 // Selecting a topic //////////
 
-We will focus on Restaurants in New York City based on common Yelp Data (Hours, Rating, Price, Cuisine Type) and NYC Code Violations Data.  Our aim is to allow the user to filter New York City Restaurants within the web browser based on those datasets.
+We will focus on Restaurants in New York City based on common Yelp Data (Hours, Rating, Price, Cuisine Type) and NYC Code Violations Data. Our interest in NYC Restaurants stems from the volume of available datasets; i.e. if one dataset has a gap, that gap can potentially be supplemented with a separate dataset. Our aim is to allow the user to filter New York City Restaurants within the web browser based on those data.
 
 // 2 // Finding a dataset //////////
 
@@ -31,7 +31,7 @@ LINK TBD
 
 The primary Filters/Views that we have planned as Menu Selections ( i.e. Columns pulled from the DataSets ) will be as follows:
 
-MOST REVIEWED (checkbox) // CODE VIOLATIONS (checkbox ( Heatmap )) // HOURS (slider) // RATING (dropdown) // CUISINE (dropdown) // PRICE (slider) // LOCALITY (dropdown)
+MOST REVIEWED RESTAURANTS (checkbox) // CODE VIOLATIONS (checkbox ( Heatmap )) // HOURS OPEN (slider) // YELP RATING (dropdown) // CUISINE TYPE (dropdown) // PRICE (slider) // LOCALITY (dropdown)
 
 -Similar Project: Deep Dive into NYC Restaurants // https://rspiro9.github.io/nyc_restaurant_yelp_and_inspection_analysis
 
