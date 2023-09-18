@@ -31,13 +31,7 @@ LINK TBD
 
 The primary Filters/Views that we have planned as Menu Selections ( i.e. Columns pulled from the DataSets ) will be as follows:
 
-+MOST REVIEWED // checkbox
-+CODE VIOLATIONS // checkbox ( Heatmap )
-+HOURS // slider
-+RATING // dropdown
-+CUISINE // dropdown
-+PRICE // slider
-+LOCALITY // dropdown
+MOST REVIEWED (checkbox) // CODE VIOLATIONS (checkbox ( Heatmap )) // HOURS (slider) // RATING (dropdown) // CUISINE (dropdown) // PRICE (slider) // LOCALITY (dropdown)
 
 -Similar Project: Deep Dive into NYC Restaurants // https://rspiro9.github.io/nyc_restaurant_yelp_and_inspection_analysis
 
