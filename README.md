@@ -8,7 +8,7 @@ Pratik Deshmane // Eric Huynh // Calvin Kleber // Prachi Shingvi // Mike Strati
 
 // 1 // Selecting a topic //////////
 
-We will focus on Restaurants in New York City based on common Yelp Data (Hours, Rating, Price, Cuisine Type) and NYC Code Violations Data. Our interest in NYC Restaurants stems from the volume of available datasets; i.e. if one dataset has a gap, that gap can potentially be supplemented with a separate dataset. Our aim is to allow the user to filter New York City Restaurants within the web browser based on those data.
+We will focus on Restaurants in New York City based on common Yelp Data (Hours, Rating, Price, Cuisine Type) and NYC Code Violations Data. Our interest in NYC Restaurants stems from the volume of available datasets; if one dataset has a gap, it can be supplemented with a separate dataset. Our aim is to allow the user to filter New York City Restaurants within the web browser based on those data.
 
 // 2 // Finding a dataset //////////
 
