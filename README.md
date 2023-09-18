@@ -8,7 +8,7 @@ Pratik Deshmane // Eric Huynh // Calvin Kleber // Prachi Shingvi // Mike Strati
 
 // 1 // Selecting a topic //////////
 
-Restaurants in New York City based on common Yelp Data(Hours, Rating, Price, Cuisine) and NYC Code Violations Data.
+We will focus on Restaurants in New York City based on common Yelp Data (Hours, Rating, Price, Cuisine Type) and NYC Code Violations Data.  Our aim is to allow the user to filter New York City Restaurants within the web browser based on those datasets.
 
 // 2 // Finding a dataset //////////
 
