@@ -2,7 +2,7 @@
 var mymap = L.map('map').setView([40.7128, -74.0060], 13); // New York coordinates
 
 // Add a tile layer to the map (Mapbox Streets tile layer)
-L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXJpY2ZheWh1eW5oIiwiYSI6ImNsbXBzYmJteTBoNXoybG51bnlwaXNxaDQifQ.fQ6iaJMaFDwYlxWRMvuFBA', {
+L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=API_KEY', {
   attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
   maxZoom: 18,
   id: 'mapbox/streets-v11',
