@@ -3,10 +3,12 @@ from flask import Flask,jsonify
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
+from flask_cors import CORS,cross_origin
 
 #################################################
 # Database Setup
 #################################################
+
 
 engine = create_engine("sqlite:///data/kayak_data.sqlite")
 
@@ -27,10 +29,10 @@ session=Session(engine)
 #################################################
 
 app = Flask(__name__)
-
+cors=CORS(app)
 # To Maintain order in jsonified responses
 app.config['JSON_SORT_KEYS']=False
-
+app.config['CORS_HEADERS']='Content-Type'
 # Function to start session
 def start_session():
     session=Session(engine)
@@ -49,6 +51,7 @@ def home():
 
 @app.route("/api/v1.0/kayak_restaurants_data")
 def restaurant_data():
+   
    
    start_session()
    results=session.query(restaurants).all()   
