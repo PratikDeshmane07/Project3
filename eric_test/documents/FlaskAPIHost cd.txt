@@ -1,0 +1,5 @@
+cd "C:\Users\ric pc\Desktop\Boot Camp Git\GitHub\GitHub Portfolio\Project3\prachi_test"
+python app.py
+
+cd "C:\Users\ric pc\Desktop\Boot Camp Git\GitHub\GitHub Portfolio\Project3\prachi_test\Test HTML and JS"
+start index.html
