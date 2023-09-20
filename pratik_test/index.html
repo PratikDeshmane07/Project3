@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NYC Restaurant Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+</head>
+<body>
+    <div id="container">
+        <div id="loading-spinner" style="display:none;">
+            <img src="spinner.gif" alt="Loading...">
+        </div>
+        <div id="filters">
+            <!-- Filter UI elements -->
+            <div id="filters">
+                <label for="rating-filter">Overall Rating:</label>
+                <select id="rating-filter">
+                    <option value="all">All</option>
+                    <!-- Options will be populated dynamically -->
+                </select>
+            
+                <label for="cuisine-filter">Cuisine:</label>
+                <select id="cuisine-filter">
+                    <option value="all">All</option>
+                    <!-- Options will be populated dynamically -->
+                </select>
+
+                <label for="price_per_person-filter">Price_per_person:</label>
+                <select id="price_per_person-filter">
+                    <option value="all">All</option>
+                    <!-- Options will be populated dynamically -->
+                </select>
+            
+                <label for="locality-filter">Locality:</label>
+                <select id="locality-filter">
+                    <option value="all">All</option>
+                    <!-- Options will be populated dynamically -->
+                </select>
+            
+                <label for="dining-style-filter">Dining Style:</label>
+                <select id="dining-style-filter">
+                    <option value="all">All</option>
+                    <!-- Options will be populated dynamically -->
+                </select>
+            
+                <button id="apply-filters">Apply Filters</button>
+                
+                <span id="no-results" style="display:none;">No results found.</span>
+
+            </div>
+        </div>
+        <div id="map" style="height: 900px;">
+            <div id="error-message" style="display:none;">
+                An error occurred while loading the data.
+            </div>
+            <!-- Map will be here -->
+        </div>
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script type="module" src="script.js"></script>
+</body>
+</html>
