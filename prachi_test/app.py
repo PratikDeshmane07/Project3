@@ -80,6 +80,7 @@ def restaurant_data():
         temp['dining_style'] = result.dining_style
         temp['latitude'] = result.latitude
         temp['longitude'] = result.longitude
+        temp['url']=result.url
         rows.append(temp)
 
     # Returning jsonified results
