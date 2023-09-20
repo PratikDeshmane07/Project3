@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>NYC Restaurant Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+
+<body>
+    <h1 id="webpage-title">DineNYC: Restaurant Insights</h1>
+
+
+
+    <div id="filters-container">
+
+        <div class="filter-item">
+            <label for="rating-filter">Overall Rating:</label>
+            <select id="rating-filter">
+                <option value="all">All</option>
+            </select>
+        </div>
+
+        <div class="filter-item">
+            <label for="cuisine-filter">Cuisine:</label>
+            <select id="cuisine-filter">
+                <option value="all">All</option>
+            </select>
+        </div>
+
+        <div class="filter-item">
+            <label for="price_per_person-filter">Pricing:</label>
+            <select id="price_per_person-filter">
+                <option value="all">All</option>
+            </select>
+        </div>
+
+        <div class="filter-item">
+            <label for="locality-filter">Locality:</label>
+            <select id="locality-filter">
+                <option value="all">All</option>
+            </select>
+        </div>
+
+        <div class="filter-item">
+            <label for="dining-style-filter">Dining Style:</label>
+            <select id="dining-style-filter">
+                <option value="all">All</option>
+            </select>
+        </div>
+
+        <button id="apply-filters">Apply Filters</button>
+
+    </div>
+
+
+    <div id="map"></div>
+
+    <div class="separator"></div>
+
+    <h2 class="chart-title">Cuisine Pie Chart of New York City</h2>
+
+    <canvas id="myDoughnutChart" width="400" height="400"></canvas>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>

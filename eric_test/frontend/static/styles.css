@@ -1,0 +1,74 @@
+#webpage-title {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#filters-container {
+    position: absolute;
+    /* Keep it floating */
+    top: 100px;
+    right: 15%;
+    z-index: 1000;
+    /* Increase z-index */
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    /* To stack filters */
+    align-items: flex-start;
+}
+
+#filters-container select {
+    width: 100%;
+    /* Makes all dropdown boxes the same length */
+}
+
+#filters-container label {
+    margin-right: 10px;
+    /* Adds spacing to the right of the label */
+}
+
+#filters-container .filter-item {
+    margin-bottom: 10px;
+    /* Adds spacing between each filter item */
+}
+
+
+#map {
+    margin: 20px auto;
+    width: 80%;
+    height: 75vh;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+#myDoughnutChart {
+    width: 80%;
+    height: 37.5vh;
+    margin: 20px auto;
+    display: block;
+}
+
+.separator {
+    height: 2px;
+    background-color: #ccc;
+    margin: 20px 0;
+}
+
+.chart-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#map::after {
+    content: "";
+    display: block;
+    height: 2px;
+    background-color: #000000;
+    margin: 20px 0;
+}
