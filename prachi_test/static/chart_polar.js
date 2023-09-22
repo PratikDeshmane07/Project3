@@ -28,7 +28,7 @@ fetch("http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data")
           },
           title: {
             display: true,
-            text: 'Chart.js Polar Area Chart'
+            text: 'Pricing Distribution // $ = $30 & under // $$ = $31 to $50 // $$$ = $50 and over'
           }
 
         }
