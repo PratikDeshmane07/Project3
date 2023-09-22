@@ -1,7 +1,7 @@
 const map = L.map('map').setView([40.70, -73.94], 13); // New York City coordinates
 
 
-const url = `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=API_TOKEN`;
+const url = `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXJpY2ZheWh1eW5oIiwiYSI6ImNsbXBzYmJteTBoNXoybG51bnlwaXNxaDQifQ.fQ6iaJMaFDwYlxWRMvuFBA`;
 let api_data = null;
 let bar_chart = null;
 // Add a tile layer to the map (Mapbox Streets tile layer)
