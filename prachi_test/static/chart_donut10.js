@@ -53,6 +53,7 @@ function createDoughnutChart(top10Cuisines, cuisineCounts) {
       ],
     },
     options: {
+      aspectRatio:2,
       responsive: true,
       plugins: {
         legend: {

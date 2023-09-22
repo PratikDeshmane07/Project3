@@ -20,6 +20,7 @@ fetch("http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data")
         }],
       },
       options: {
+        
         responsive: true,
         plugins: {
           legend: {
@@ -29,6 +30,7 @@ fetch("http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data")
             display: true,
             text: 'Chart.js Polar Area Chart'
           }
+
         }
       },
     });

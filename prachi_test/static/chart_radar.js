@@ -43,6 +43,7 @@ function fetchData() {
     const config = {
       type: 'radar',
       data: radarData,
+      options: {aspectRatio:2.5},
     };
   
     // Create the Radar Chart
