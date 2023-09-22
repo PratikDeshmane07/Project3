@@ -1,7 +1,7 @@
 const map = L.map('map').setView([40.70, -73.94], 13); // New York City coordinates
 
 
-const url = `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=API_TOKEN`;
+const url = `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=access_token`;
 let api_data = null;
 let bar_chart = null;
 // Add a tile layer to the map (Mapbox Streets tile layer)
@@ -31,6 +31,7 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
         });
 
         function populateFilterOptions(id, field) {
+            if (id !== "#rating-filter") {  // Skip overall_rating since it's predefined
             const uniqueValues = [...new Set(data.map(item => item[field]))];
             uniqueValues.sort();
             const sortedValues = ['all', ...uniqueValues];
@@ -42,6 +43,7 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
                 .append("option")
                 .text(d => d)
                 .attr("value", d => d);
+            }
         }
         function applyFilters() {
             const selectedRating = document.getElementById("rating-filter").value;
@@ -57,7 +59,18 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
             });
 
             data.forEach(d => {
-                if ((selectedRating === "all" || d.overall_rating === selectedRating) &&
+                let ratingMatches = false;
+
+                if (selectedRating === "all") {
+                    ratingMatches = true;
+                } else {
+                    const [min, max] = selectedRating.split('-').map(Number);
+                    if (d.overall_rating >= min && d.overall_rating < max) {
+                        ratingMatches = true;
+                    }
+                }
+
+                if (ratingMatches &&
                     (selectedCuisine === "all" || d.cuisine === selectedCuisine) &&
                     (selectedPrice === "all" || d.price_per_person === selectedPrice) &&
                     (selectedLocality === "all" || d.locality === selectedLocality) &&
