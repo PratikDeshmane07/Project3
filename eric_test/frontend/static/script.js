@@ -1,6 +1,6 @@
 // Map
 const map = L.map('map').setView([40.738873, -73.959579], 13); // Coordinates moved a bit more west in NYC
-const url = `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=API KEY`;
+const url = `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXJpY2ZheWh1eW5oIiwiYSI6ImNsbXBzYmJteTBoNXoybG51bnlwaXNxaDQifQ.fQ6iaJMaFDwYlxWRMvuFBA`;
 
 L.tileLayer(url, {
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
@@ -17,8 +17,71 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
     .then(response => response.json())
     .then(data => {
 
-        //interactive map
-        initializeMap(data);
+
+
+
+        // Interactive Restaurant Map of NYC
+        function createAndAddMarker(d) {
+            L.marker([d.latitude, d.longitude])
+                .addTo(map)
+                .bindPopup(`<b>${d.name}</b><br>Cuisine: ${d.cuisine}<br><a href="${d.url}" target="_blank">View on Kayak</a>`);
+        }
+        data.forEach(d => {
+            createAndAddMarker(d);
+        });
+        function populateFilterOptions(id, field) {
+            if (id !== "#rating-filter") {
+                const uniqueValues = [...new Set(data.map(item => item[field]))];
+                uniqueValues.sort();
+                const sortedValues = ['all', ...uniqueValues];
+                d3.select(id)
+                    .selectAll("option")
+                    .data(sortedValues)
+                    .enter()
+                    .append("option")
+                    .text(d => d)
+                    .attr("value", d => d);
+            }
+        }
+        function applyFilters() {
+            const selectedRating = document.getElementById("rating-filter").value;
+            const selectedCuisine = document.getElementById("cuisine-filter").value;
+            const selectedPrice = document.getElementById("price_per_person-filter").value;
+            const selectedLocality = document.getElementById("locality-filter").value;
+            const selectedDiningStyle = document.getElementById("dining-style-filter").value;
+            map.eachLayer(layer => {
+                if (layer instanceof L.Marker) {
+                    map.removeLayer(layer);
+                }
+            });
+            data.forEach(d => {
+                let ratingMatches = false;
+                if (selectedRating === "all") {
+                    ratingMatches = true;
+                } else {
+                    const [min, max] = selectedRating.split('-').map(Number);
+                    if (d.overall_rating >= min && d.overall_rating < max) {
+                        ratingMatches = true;
+                    }
+                }
+                if (ratingMatches &&
+                    (selectedCuisine === "all" || d.cuisine === selectedCuisine) &&
+                    (selectedPrice === "all" || d.price_per_person === selectedPrice) &&
+                    (selectedLocality === "all" || d.locality === selectedLocality) &&
+                    (selectedDiningStyle === "all" || d.dining_style === selectedDiningStyle)) {
+
+                    createAndAddMarker(d);
+
+                }
+            });
+        }
+        populateFilterOptions("#rating-filter", "overall_rating");
+        populateFilterOptions("#cuisine-filter", "cuisine");
+        populateFilterOptions("#price_per_person-filter", "price_per_person");
+        populateFilterOptions("#locality-filter", "locality");
+        populateFilterOptions("#dining-style-filter", "dining_style");
+        document.getElementById("apply-filters").addEventListener("click", applyFilters);
+
 
         //rating bar chart data
         const uniqueCuisines = [...new Set(data.map(restaurant => restaurant.cuisine))];
@@ -28,14 +91,16 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
         createPieChart(data);
 
 
+        //reviews bar chart data
+        drawTop10BarChart(data)
+        populateFilterOptions("#cuisine-filter-top10", "cuisine");
+
+
         //dining radar chart data
         createRadarChart(data);
 
 
         //price polar chart data
-        const doughnutcuisineCounts = countCuisineOccurrences(data);
-        const top10Cuisines = getTop10Cuisines(doughnutcuisineCounts);
-        createDoughnutChart(top10Cuisines, doughnutcuisineCounts);
         createPolarChart(data);
 
 
@@ -50,132 +115,8 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-//create map
-    function initializeMap(data){
-            function createAndAddMarker(d) {
-                L.marker([d.latitude, d.longitude])
-                    .addTo(map)
-                    .bindPopup(`<b>${d.name}</b><br>Cuisine: ${d.cuisine}<br><a href="${d.url}" target="_blank">View on Kayak</a>`);
-            }
-            data.forEach(d => {
-                createAndAddMarker(d);
-            });
-            function populateFilterOptions(id, field) {
-                if (id !== "#rating-filter") {
-                    const uniqueValues = [...new Set(data.map(item => item[field]))];
-                    uniqueValues.sort();
-                    const sortedValues = ['all', ...uniqueValues];
-                    d3.select(id)
-                        .selectAll("option")
-                        .data(sortedValues)
-                        .enter()
-                        .append("option")
-                        .text(d => d)
-                        .attr("value", d => d);
-                }
-            }
-            function applyFilters() {
-                const selectedRating = document.getElementById("rating-filter").value;
-                const selectedCuisine = document.getElementById("cuisine-filter").value;
-                const selectedPrice = document.getElementById("price_per_person-filter").value;
-                const selectedLocality = document.getElementById("locality-filter").value;
-                const selectedDiningStyle = document.getElementById("dining-style-filter").value;
-                map.eachLayer(layer => {
-                    if (layer instanceof L.Marker) {
-                        map.removeLayer(layer);
-                    }
-                });
-                data.forEach(d => {
-                    let ratingMatches = false;
-                    if (selectedRating === "all") {
-                        ratingMatches = true;
-                    } else {
-                        const [min, max] = selectedRating.split('-').map(Number);
-                        if (d.overall_rating >= min && d.overall_rating < max) {
-                            ratingMatches = true;
-                        }
-                    }
-                    if (ratingMatches &&
-                        (selectedCuisine === "all" || d.cuisine === selectedCuisine) &&
-                        (selectedPrice === "all" || d.price_per_person === selectedPrice) &&
-                        (selectedLocality === "all" || d.locality === selectedLocality) &&
-                        (selectedDiningStyle === "all" || d.dining_style === selectedDiningStyle)) {
-    
-                        createAndAddMarker(d);
-    
-                    }
-                });
-            }
-            populateFilterOptions("#rating-filter", "overall_rating");
-            populateFilterOptions("#cuisine-filter", "cuisine");
-            populateFilterOptions("#price_per_person-filter", "price_per_person");
-            populateFilterOptions("#locality-filter", "locality");
-            populateFilterOptions("#dining-style-filter", "dining_style");
-            document.getElementById("apply-filters").addEventListener("click", applyFilters);
-            
-            
-            //reviews bar chart
-            populateFilterOptions("#cuisine-filter-top10", "cuisine");
-            function optionChangedTop10Filter(value) {
-                if (value == 'all') {
-                    drawTop10BarChart(api_data)
-                }
-                else {
-                    cuisine_data = api_data.filter(function (d) {
-                        return d['cuisine'] === value;
-                    })
-                    drawTop10BarChart(cuisine_data)
-                }
-            }
-            function drawTop10BarChart(Bar_data) {
-                Bar_data.sort(function (a, b) {
-                    return b.reviews - a.reviews
-                })
-                let top_10 = Bar_data.slice(0, 10)
-                let labels = top_10.map(function (value) {
-                    return value['name']
-                });
-                const data1 = {
-                    labels: labels,
-                    datasets: [
-                        {
-                            data: top_10.map(function (value) {
-                                return value['reviews'];
-                            }),
-                            borderWidth: 1,
-                            barThickness: 25,
-                            label: '# of Reviews',
-                        },
-                    ],
-                };
-                const config = {
-                    type: 'bar',
-                    data: data1,
-                    options: {
-                        indexAxis: 'y',
-                        scales: {
-                            x: {
-                                title: {
-                                    display: true,
-                                    text: 'Number of Reviews',
-                                },
-                            },
-                        },
-                        plugins: {
-                            legend: {
-                                display: false,
-                            },
-                        },
-                        responsive: true,
-                    },
-                };
-                if (bar_chart !== null) {
-                    bar_chart.destroy();
-                }
-                const barctx = document.getElementById('barchart').getContext('2d');
-                bar_chart = new Chart(barctx, config);
-            }
-        }
+
+
 
 
 
@@ -290,6 +231,68 @@ function createRadarChart(data) {
 
 
 
+//most-reviews bar chart
+let api_data = null;
+let bar_chart = null;
+function optionChangedTop10Filter(value) {
+    if (value == 'all') {
+        drawTop10BarChart(api_data)
+    }
+    else {
+        cuisine_data = api_data.filter(function (d) {
+            return d['cuisine'] === value;
+        })
+        drawTop10BarChart(cuisine_data)
+    }
+}
+function drawTop10BarChart(Bar_data) {
+    Bar_data.sort(function (a, b) {
+        return b.reviews - a.reviews
+    })
+    let top_10 = Bar_data.slice(0, 10)
+    let labels = top_10.map(function (value) {
+        return value['name']
+    });
+    const data1 = {
+        labels: labels,
+        datasets: [
+            {
+                data: top_10.map(function (value) {
+                    return value['reviews'];
+                }),
+                borderWidth: 1,
+                barThickness: 25,
+                label: '# of Reviews',
+            },
+        ],
+    };
+    const config = {
+        type: 'bar',
+        data: data1,
+        options: {
+            indexAxis: 'y',
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Number of Reviews',
+                    },
+                },
+            },
+            plugins: {
+                legend: {
+                    display: false,
+                },
+            },
+            responsive: true,
+        },
+    };
+    if (bar_chart !== null) {
+        bar_chart.destroy();
+    }
+    const barctx = document.getElementById('barchart').getContext('2d');
+    bar_chart = new Chart(barctx, config);
+}
 
 
 
@@ -379,27 +382,11 @@ function createDoughnutChart(top10Cuisines, doughnutcuisineCounts) {
 
 //price polar chart
 function createPolarChart(data) {
+    const doughnutcuisineCounts = countCuisineOccurrences(data);
+    const top10Cuisines = getTop10Cuisines(doughnutcuisineCounts);
+    createDoughnutChart(top10Cuisines, doughnutcuisineCounts);
     const pricePerPersonData = data.map(restaurant => restaurant.price_per_person);
-    
-    // Calculate the price distribution
-    const distribution = {
-        '$': 0,
-        '$$': 0,
-        '$$$': 0
-    };
-
-    pricePerPersonData.forEach(price => {
-        if (price === '$') {
-            distribution['$']++;
-        } else if (price === '$$') {
-            distribution['$$']++;
-        } else if (price === '$$$') {
-            distribution['$$$']++;
-        }
-    });
-
-    const priceDistribution = Object.values(distribution); // Convert the distribution object to an array
-
+    const priceDistribution = calculatePriceDistribution(pricePerPersonData);
     const ctx2 = document.getElementById('pieChart').getContext('2d');
     const myChart = new Chart(ctx2, {
         type: 'polarArea',
@@ -411,6 +398,7 @@ function createPolarChart(data) {
             }],
         },
         options: {
+
             responsive: true,
             plugins: {
                 legend: {
@@ -420,11 +408,28 @@ function createPolarChart(data) {
                     display: true,
                     text: ''
                 }
+
             }
         },
     });
 }
-
+function calculatePriceDistribution(priceData) {
+    const distribution = {
+        '$': 0,
+        '$$': 0,
+        '$$$': 0
+    };
+    priceData.forEach(price => {
+        if (price === '$') {
+            distribution['$']++;
+        } else if (price === '$$') {
+            distribution['$$']++;
+        } else if (price === '$$$') {
+            distribution['$$$']++;
+        }
+    });
+    return Object.values(distribution);
+}
 
 
 
