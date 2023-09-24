@@ -4,35 +4,38 @@
     margin-bottom: 20px;
 }
 
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px auto;
+    width: 1280px;
+    padding: 20px 10px;
+}
+
 #filters-container {
     position: absolute;
-    /* Keep it floating */
     top: 100px;
     right: 15%;
     z-index: 1000;
-    /* Increase z-index */
-    background-color: #f9f9f9;
+    background-color: #ffffff9a;
     padding: 15px;
     border-radius: 8px;
     display: flex;
     flex-direction: column;
-    /* To stack filters */
     align-items: flex-start;
 }
 
 #filters-container select {
     width: 100%;
-    /* Makes all dropdown boxes the same length */
 }
 
 #filters-container label {
     margin-right: 10px;
-    /* Adds spacing to the right of the label */
 }
 
 #filters-container .filter-item {
     margin-bottom: 10px;
-    /* Adds spacing between each filter item */
 }
 
 
@@ -46,12 +49,6 @@
     padding: 20px;
 }
 
-#myDoughnutChart {
-    width: 80%;
-    height: 37.5vh;
-    margin: 20px auto;
-    display: block;
-}
 
 .separator {
     height: 2px;
@@ -59,11 +56,6 @@
     margin: 20px 0;
 }
 
-.chart-title {
-    text-align: center;
-    font-size: 24px;
-    margin-bottom: 20px;
-}
 
 #map::after {
     content: "";
@@ -71,4 +63,8 @@
     height: 2px;
     background-color: #000000;
     margin: 20px 0;
+}
+
+.bar-title {
+    float: 'left'
 }
