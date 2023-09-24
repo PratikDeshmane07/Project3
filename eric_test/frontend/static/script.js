@@ -43,17 +43,22 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
                     .attr("value", d => d);
             }
         }
+        let filteredData = [];
         function applyFilters() {
             const selectedRating = document.getElementById("rating-filter").value;
             const selectedCuisine = document.getElementById("cuisine-filter").value;
             const selectedPrice = document.getElementById("price_per_person-filter").value;
             const selectedLocality = document.getElementById("locality-filter").value;
             const selectedDiningStyle = document.getElementById("dining-style-filter").value;
+        
+            filteredData = [];  // Clear the existing filtered data
+        
             map.eachLayer(layer => {
                 if (layer instanceof L.Marker) {
                     map.removeLayer(layer);
                 }
             });
+        
             data.forEach(d => {
                 let ratingMatches = false;
                 if (selectedRating === "all") {
@@ -64,16 +69,19 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
                         ratingMatches = true;
                     }
                 }
+        
                 if (ratingMatches &&
                     (selectedCuisine === "all" || d.cuisine === selectedCuisine) &&
                     (selectedPrice === "all" || d.price_per_person === selectedPrice) &&
                     (selectedLocality === "all" || d.locality === selectedLocality) &&
                     (selectedDiningStyle === "all" || d.dining_style === selectedDiningStyle)) {
-
+        
                     createAndAddMarker(d);
-
+                    filteredData.push(d);  // Save the filtered data
                 }
             });
+            createPieChart(filteredData);
+
         }
         populateFilterOptions("#rating-filter", "overall_rating");
         populateFilterOptions("#cuisine-filter", "cuisine");
@@ -90,8 +98,8 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
         //cuisine pie chart data
         createPieChart(data);
 
-
         //reviews bar chart data
+        api_data = data;
         drawTop10BarChart(data)
         populateFilterOptions("#cuisine-filter-top10", "cuisine");
 
@@ -122,7 +130,10 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
 
 
 //cuisine pie chart
+let myDoughnutChart = null;
 function createPieChart(data) {
+    const canvas = document.getElementById('myDoughnutChart');
+    const ctx = canvas.getContext('2d');
     const cuisineCounts = {};
     data.forEach(d => {
         if (cuisineCounts[d.cuisine]) {
@@ -133,8 +144,18 @@ function createPieChart(data) {
     });
     const labels = Object.keys(cuisineCounts);
     const chartData = Object.values(cuisineCounts);
-    const ctx = document.getElementById('myDoughnutChart').getContext('2d');
-    const myDoughnutChart = new Chart(ctx, {
+    if (ctx) {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+
+    // Destroy the existing chart instance if it exists
+    if (myDoughnutChart) {
+        myDoughnutChart.destroy();
+        myDoughnutChart = null;
+    }
+
+    // Create a new chart
+    myDoughnutChart = new Chart(ctx, {
         type: 'pie',
         options: {
             aspectRatio: 2,
@@ -180,7 +201,14 @@ function createPieChart(data) {
         },
     });
 }
-
+document.getElementById("toggle-chart").addEventListener("click", function() {
+    const chartContainer = document.querySelector(".cuisine-pie-chart");
+    if (chartContainer.style.display === "none") {
+        chartContainer.style.display = "block";
+    } else {
+        chartContainer.style.display = "none";
+    }
+});
 
 
 //dining-style radar chart
@@ -500,3 +528,22 @@ function createMasterBarChart(uniqueCuisines, data) {
         },
     });
 }
+
+
+let mybutton = document.getElementById("backToTop");
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+mybutton.addEventListener("click", function() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+});
