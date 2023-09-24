@@ -1,24 +1,6 @@
-// Map
-const map = L.map('map').setView([40.70, -73.94], 13);
-const url = `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXJpY2ZheWh1eW5oIiwiYSI6ImNsbXBzYmJteTBoNXoybG51bnlwaXNxaDQifQ.fQ6iaJMaFDwYlxWRMvuFBA`;
-let api_data = null;
-let bar_chart = null;
-L.tileLayer(url, {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-    maxZoom: 18,
-    id: 'mapbox/streets-v11',
-    tileSize: 512,
-    zoomOffset: -1
-}).addTo(map);
-
-
-
-// Data Fetching
 fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
     .then(response => response.json())
     .then(data => {
-
-
 
 
         // Interactive Restaurant Map of NYC
@@ -27,9 +9,7 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
                 .addTo(map)
                 .bindPopup(`<b>${d.name}</b><br>Cuisine: ${d.cuisine}<br><a href="${d.url}" target="_blank">View on Kayak</a>`);
         }
-        data.forEach(d => {
-            createAndAddMarker(d);
-        });
+        data.forEach(d => { createAndAddMarker(d); });
         function populateFilterOptions(id, field) {
             if (id !== "#rating-filter") {
                 const uniqueValues = [...new Set(data.map(item => item[field]))];
@@ -76,11 +56,13 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
                 }
             });
         }
+
         populateFilterOptions("#rating-filter", "overall_rating");
         populateFilterOptions("#cuisine-filter", "cuisine");
         populateFilterOptions("#price_per_person-filter", "price_per_person");
         populateFilterOptions("#locality-filter", "locality");
         populateFilterOptions("#dining-style-filter", "dining_style");
+
         document.getElementById("apply-filters").addEventListener("click", applyFilters);
 
 
@@ -114,6 +96,25 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+// Map
+const map = L.map('map').setView([40.70, -73.94], 13);
+const url = `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXJpY2ZheWh1eW5oIiwiYSI6ImNsbXBzYmJteTBoNXoybG51bnlwaXNxaDQifQ.fQ6iaJMaFDwYlxWRMvuFBA`;
+L.tileLayer(url, {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox/streets-v11',
+    tileSize: 512,
+    zoomOffset: -1
+}).addTo(map);
+
 
 
 
@@ -233,6 +234,8 @@ function createRadarChart(data) {
 
 
 //most-reviews bar chart
+let api_data = null;
+let bar_chart = null;
 function optionChangedTop10Filter(value) {
     if (value == 'all') {
         drawTop10BarChart(api_data)
