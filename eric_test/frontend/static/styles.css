@@ -73,34 +73,13 @@
     float: 'left'
 }
 
-.cuisine-pie-chart {
-    position: absolute;
-    top: 800px;  /* Adjust as needed */
-    right: 10%;  /* Similar to #filters-container */
-    z-index: 1000;  /* Should be same or higher than #filters-container */
-    background-color: #ffffff9a;  /* Similar to #filters-container */
-    padding: 15px;
-    border-radius: 8px;
-    width: 600px;  /* Adjust as needed */
-    height: 400px;  /* Adjust as needed */
-    overflow-y: auto;
-}
 
-#toggle-chart {
-    position: absolute;
-    top: 1175px;  /* Adjust as needed */
-    right: 11%;  /* Adjust as needed */
-    z-index: 1001;  /* Should be higher than map and other containers */
-    padding: 10px;
-    border-radius: 5px;
-    background-color: #ffffffd3;  /* To match other containers */
-}
 
 
 #backToTop {
-    display: none; /* Hidden by default */
-    position: fixed; /* Fixed/sticky position */
-    bottom: 20px; /* Place the button at the bottom of the page */
+    display: none; 
+    position: fixed; 
+    bottom: 20px; 
     right: 30px; /* Place the button 30px from the right */
     z-index: 99; /* Make sure it does not overlap */
     border: none; /* Remove borders */

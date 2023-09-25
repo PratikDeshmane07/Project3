@@ -201,14 +201,7 @@ function createPieChart(data) {
         },
     });
 }
-document.getElementById("toggle-chart").addEventListener("click", function() {
-    const chartContainer = document.querySelector(".cuisine-pie-chart");
-    if (chartContainer.style.display === "none") {
-        chartContainer.style.display = "block";
-    } else {
-        chartContainer.style.display = "none";
-    }
-});
+
 
 
 //dining-style radar chart
@@ -531,9 +524,7 @@ function createMasterBarChart(uniqueCuisines, data) {
 
 
 let mybutton = document.getElementById("backToTop");
-
 window.onscroll = function() {scrollFunction()};
-
 function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
     mybutton.style.display = "block";
