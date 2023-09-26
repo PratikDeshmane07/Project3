@@ -1,40 +1,32 @@
-# Project3
-Group3-Project 3 // LINK to Project Proposal (Images): 
-https://docs.google.com/document/d/1W9PH4cZvq_cBdmE26OEKXz2jtCahiN0wbB1KhQta-Xc/edit?usp=sharing
+# NYC Restaurants Data Visualization Project
+### Objective
+The primary goal of this project is to create an interactive web application that provides valuable insights into New York City's restaurant scene. Utilizing a dataset from Kayak, the application aims to offer users an intuitive way to explore various restaurant options. These options are based on different parameters such as cuisine diversity, customer reviews, and pricing tiers. This project serves as a showcase of our team's technical skills in data engineering, web development, and data visualization.
 
-// 0 // Group Members //////////
+### Technical Skills Utilized
+- Python: Used for data cleaning, preprocessing, and server-side logic through Flask API.
+- HTML/CSS: Employed for front-end structure and styling. Custom styles were applied to map containers, chart containers, and filters to enhance the user interface.
+- JavaScript: Utilized for front-end logic and interactivity. Integrated Leaflet for map visualization and Mapbox for map styling.
+- SQL Database: Implemented for efficient data storage and retrieval.
+- Data Visualization: Incorporated Chart.js for creating a variety of chart types, including pie charts, bar charts, polar charts, donut charts, and radar charts.
 
-Pratik Deshmane // Eric Huynh // Calvin Kleber // Prachi Shingvi // Mike Strati
+###Summary
+In this collaborative effort, we developed a comprehensive web application that provides insights into restaurants in New York City. The backend was built using Python and Flask, with data stored in an SQL database. The front-end was designed using HTML, CSS, and JavaScript. We also featured interactive maps via Leaflet and Mapbox. Various types of interactive charts were implemented using Chart.js to answer a set of specific research questions.
 
-// 1 // Selecting a topic //////////
+###Research Questions/User Interactions
+1. What is the cuisine diversity of New York City?
+Chart Type: Pie chart
+1. Which restaurants in NYC have received the most reviews, broken down by type of cuisine?
+Chart Type: Bar chart
+1. What is the most common price range for restaurants in NYC?
+Chart Type: Polar chart
+1. Which cuisine is most dominant in the NYC area?
+Chart Type: Top 10 donut chart (Italian dominant at around 32%)
+1. Are fine-dining restaurants more prevalent in certain neighborhoods?
+Chart Type: Radar chart
+1. How does the number of restaurants for each type of cuisine correlate with the total volume of ratings they've received in NYC?
+Chart Type: Bar chart
 
-We will focus on Restaurants in New York City based on common Yelp Data (Hours, Rating, Price, Cuisine Type) and NYC Code Violations Data. Our interest in NYC Restaurants stems from the volume of available datasets; if one dataset has a gap, it can be supplemented with a separate dataset. Our aim is to allow the user to filter New York City Restaurants within the web browser based on those data.
-
-// 2 // Finding a dataset //////////
-
-Our Datasets are as follows:
-
--Restaurant Inspection Data NYC
-https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/data
-
--Yelp Large Dataset
-https://www.yelp.com/dataset/download
-https://www.yelp.com/dataset/documentation/main
-
--Kayak NYC Restaurants
-https://www.kaggle.com/datasets/saikashyapcheruku/nyc-restaurants
-
--Yelp Scraped/API Dataset
-LINK TBD
-
-// 3 // Finding inspiration //////////
-
-The primary Filters/Views that we have planned as Menu Selections ( i.e. Columns pulled from the DataSets ) will be as follows:
-
-MOST REVIEWED RESTAURANTS (checkbox) // CODE VIOLATIONS (checkbox ( Heatmap )) // HOURS OPEN (slider) // YELP RATING (dropdown) // CUISINE TYPE (dropdown) // PRICE (slider) // LOCALITY (dropdown)
-
--Similar Project: Deep Dive into NYC Restaurants // https://rspiro9.github.io/nyc_restaurant_yelp_and_inspection_analysis
-
-// 4 // “Sketching” your ideal visuals //////////
-
--SEE IMAGES: https://docs.google.com/document/d/1W9PH4cZvq_cBdmE26OEKXz2jtCahiN0wbB1KhQta-Xc/edit?usp=sharing
+### Data Source
+|Source|Website|
+|---|---|
+|Kayak NYC Restaurants|https://www.kaggle.com/datasets/saikashyapcheruku/nyc-restaurants|
