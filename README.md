@@ -6,11 +6,11 @@ The primary goal of this project is to create an interactive web application tha
 - Python: Used for data cleaning, preprocessing, and server-side logic through Flask API.
 - HTML/CSS: Employed for front-end structure and styling. Custom styles were applied to map containers, chart containers, and filters to enhance the user interface.
 - JavaScript: Utilized for front-end logic and interactivity. Integrated Leaflet for map visualization and Mapbox for map styling.
-- SQL Database: Implemented for efficient data storage and retrieval.
+- SQLite Database: Implemented for efficient data storage and retrieval.
 - Data Visualization: Incorporated Chart.js for creating a variety of chart types, including pie charts, bar charts, polar charts, donut charts, and radar charts.
 
 ### Summary
-In this collaborative effort, we developed a comprehensive web application that provides insights into restaurants in New York City. The backend was built using Python and Flask, with data stored in an SQL database. The front-end was designed using HTML, CSS, and JavaScript. We also featured interactive maps via Leaflet and Mapbox. Various types of interactive charts were implemented using Chart.js to answer a set of specific research questions.
+In this collaborative effort, we developed a comprehensive web application that provides insights into restaurants in New York City. The backend was built using Python and Flask, with data stored in an SQLite database. The front-end was designed using HTML, CSS, and JavaScript. We also featured interactive maps via Leaflet and Mapbox. Various types of interactive charts were implemented using Chart.js to answer a set of specific research questions.
 
 ### Research Questions/User Interactions
 1. What is the cuisine diversity of New York City?
