@@ -30,3 +30,12 @@ In this collaborative effort, we developed a comprehensive web application that 
 |Source|Website|
 |---|---|
 |Kayak NYC Restaurants|https://www.kaggle.com/datasets/saikashyapcheruku/nyc-restaurants|
+
+
+### Group Members
+
+Pratik D.
+Prachi S.
+Mike S.
+Calvin K.
+Eric H.
