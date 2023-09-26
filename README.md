@@ -34,8 +34,8 @@ In this collaborative effort, we developed a comprehensive web application that 
 
 ### Group Members
 
-Pratik D.
-Prachi S.
-Mike S.
-Calvin K.
-Eric H.
+2. Pratik D.
+2. Prachi S.
+2. Mike S.
+2. Calvin K.
+2. Eric H.
