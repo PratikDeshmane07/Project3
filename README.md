@@ -14,17 +14,17 @@ In this collaborative effort, we developed a comprehensive web application that 
 
 ### Research Questions/User Interactions
 1. What is the cuisine diversity of New York City?
-Chart Type: Pie chart
+	- Chart Type: Pie chart
 1. Which restaurants in NYC have received the most reviews, broken down by type of cuisine?
-Chart Type: Bar chart
+	- Chart Type: Bar chart
 1. What is the most common price range for restaurants in NYC?
-Chart Type: Polar chart
+	- Chart Type: Polar chart
 1. Which cuisine is most dominant in the NYC area?
-Chart Type: Top 10 donut chart (Italian dominant at around 32%)
+	- Chart Type: Top 10 donut chart (Italian dominant at around 32%)
 1. Are fine-dining restaurants more prevalent in certain neighborhoods?
-Chart Type: Radar chart
+	- Chart Type: Radar chart
 1. How does the number of restaurants for each type of cuisine correlate with the total volume of ratings they've received in NYC?
-Chart Type: Bar chart
+	- Chart Type: Bar chart
 
 ### Data Source
 |Source|Website|
