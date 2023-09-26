@@ -17,6 +17,7 @@ In this collaborative effort, we developed a comprehensive web application that 
 	- Chart Type: Pie chart
 1. Which restaurants in NYC have received the most reviews, broken down by type of cuisine?
 	- Chart Type: Bar chart
+	- Analysis: With our Reviews Bar Chart the user is able to select Cuisine Type and the chart will populate Most Reviews (up to Max-10) for each Cuisine. The following are the Top 10 Most Reviewed overall: [1] Cookshop, American, 32428 reviews. [2 ] Lupa, Italian, 24595 reviews. [3] Maialino, Italian, 20414 reviews. [4] Koi, Japanese, 23367 reviews. [5] Atlantic Grill, Seafood, 22951 reviews. [6] Upland, Contemp. American, 22889 reviews [7] Morimoto, Japanese, 28230 reviews. [8] Avra Estiatorio, Seafood, 24594 reviews. [9] Avra Madison Estiatorio, Mediter., 22408 reviews [10] Boulud Sud, Mediter., 21437 reviews.
 1. What is the most common price range for restaurants in NYC?
 	- Chart Type: Polar chart
 	- Analysis: Polar Chart revealed the following distribution of Price: [#1] $30-and-under, with 311 values (43.75%). [#2] $30-to-$50, with 280 values (39.29%). [#3] $50-and-over, with 120 values (16.96%). Thus “$30 and under” is the most common price range for NYC Restaurants.
