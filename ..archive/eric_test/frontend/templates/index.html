@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>UCB Data Analytics Group Project #3</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="../static/styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+
+</head>
+
+
+
+
+<body>
+
+
+    <h1 id="webpage-title">DineNYC: Interactive Dashboard</h1>
+    <p id="webpage-title">Developed by: Pratik D., Prachi S., Mike S., Calvin K., and Eric H.</p>
+
+
+
+<div class="separator"></div>
+<!-------------------------------------------------------------------------------------------------------------------->
+
+
+<div id="map-container">
+    <div id="filters-container">
+        <div class="filter-item">
+            <label for="rating-filter">Overall Rating:</label>
+            <select id="rating-filter">
+                <option value="all">All</option>
+                <option value="0.0-2.0">0.0 - 2.0</option>
+                <option value="2.0-2.5">2.0 - 2.5</option>
+                <option value="2.5-3.0">2.5 - 3.0</option>
+                <option value="3.0-3.5">3.0 - 3.5</option>
+                <option value="3.5-4.0">3.5 - 4.0</option>
+                <option value="4.0-4.5">4.0 - 4.5</option>
+                <option value="4.5-5.0">4.5 - 5.0</option>
+            </select>
+        </div>
+        <div class="filter-item">
+            <label for="cuisine-filter">Cuisine:</label>
+            <select id="cuisine-filter">
+                <option value="all">All</option>
+            </select>
+        </div>
+        <div class="filter-item">
+            <label for="price_per_person-filter">Pricing:</label>
+            <select id="price_per_person-filter">
+                <option value="all">All</option>
+            </select>
+        </div>
+        <div class="filter-item">
+            <label for="locality-filter">Locality:</label>
+            <select id="locality-filter">
+                <option value="all">All</option>
+            </select>
+        </div>
+        <div class="filter-item">
+            <label for="dining-style-filter">Dining Style:</label>
+            <select id="dining-style-filter">
+                <option value="all">All</option>
+            </select>
+        </div>
+        <button id="apply-filters">Apply Filters</button>
+    </div>
+
+
+    <h2 class="map-title">Interactive Restaurant Map of New York City</h2>
+    <div id="map"></div>
+
+
+
+<div class="chart-container">
+    <h2>Cuisine Pie Chart of New York City</h2>
+    <canvas id="myDoughnutChart"></canvas>
+</div> 
+</div> 
+
+<div class="separator"></div>
+<!-------------------------------------------------------------------------------------------------------------------->
+
+
+
+    <div class="chart-container">
+    <h2>Most Reviews Bar Chart</h2>
+    <div id="filters-container-top10">
+        <div class="filter-item-top10">
+            <label for="cuisine-filter-top10">Cuisine:</label>
+            <select id="cuisine-filter-top10" onchange="optionChangedTop10Filter(this.value)">
+                <option value="all">All</option>
+            </select>
+        </div>
+    </div>
+    <br>
+    <canvas id="barchart"></canvas>
+    </div> 
+
+
+<div class="separator"></div>
+<!-------------------------------------------------------------------------------------------------------------------->
+
+
+    <div class="chart-container">
+    <h2>Price Polar Chart</h2>
+    <canvas id="pieChart"></canvas>
+    </div>
+
+
+
+<div class="separator"></div>
+<!-------------------------------------------------------------------------------------------------------------------->
+
+
+    <div class="chart-container">
+    <h2>Top 10 Cuisine Donut Chart</h2>
+    <canvas id="cuisineChart"></canvas>
+    </div>  
+
+
+
+<div class="separator"></div>
+<!-------------------------------------------------------------------------------------------------------------------->
+
+
+    <div class="chart-container">
+    <h2>Dining Style Radar Chart</h2>
+    <canvas id="radarChart"></canvas>
+    </div> 
+
+
+<div class="separator"></div>
+<!-------------------------------------------------------------------------------------------------------------------->
+
+
+    <div class="chart-container">
+    <h2>Rating Bar Chart</h2>
+    <canvas id="cuisineRatingsChart"></canvas>
+    </div>  
+
+
+
+<button id="backToTop" title="Go to top">Back to Top</button>
+
+
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="../static/script.js"></script>
+
+
+
+</body>
+
+</html>
