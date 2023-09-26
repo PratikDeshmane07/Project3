@@ -19,7 +19,7 @@ In this collaborative effort, we developed a comprehensive web application that 
 	- Chart Type: Bar chart
 1. What is the most common price range for restaurants in NYC?
 	- Chart Type: Polar chart
-	- Analysis: Polar Chart revealed the following distribution of Price: (#1) $30 and under, with 311 values (43.75%). (#2) $30-to-50, with 280 values (39.29%). (#3) $50 and over, with 120 values (16.96%). Thus “$30 and under” is the most common price range for NYC Restaurants.
+	- Analysis: Polar Chart revealed the following distribution of Price: [#1] $30 and under, with 311 values (43.75%). [#2] $30-to-50, with 280 values (39.29%). [#3] $50 and over, with 120 values (16.96%). Thus “$30 and under” is the most common price range for NYC Restaurants.
 1. Which cuisine is most dominant in the NYC area?
 	- Chart Type: Donut chart
 1. Are fine-dining restaurants more prevalent in certain neighborhoods?
