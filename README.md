@@ -22,6 +22,7 @@ In this collaborative effort, we developed a comprehensive web application that 
 	- Analysis: Polar Chart revealed the following distribution of Price: [#1] $30-and-under, with 311 values (43.75%). [#2] $30-to-$50, with 280 values (39.29%). [#3] $50-and-over, with 120 values (16.96%). Thus “$30 and under” is the most common price range for NYC Restaurants.
 1. Which cuisine is most dominant in the NYC area?
 	- Chart Type: Donut chart
+	- Analysis: Donut Chart revealed the following distribution of Cuisine Type: [#1] Italian 168 values (23.62%). [#2] American 112 values (15.75%). [#3] French 40 values (5.62%). [#4] Steakhouse 36 values [5.06%]. [#5] Japanese 34 (4.78%). Thus, Italian and American cuisine are far outpacing other cuisine types in regards to the amount of restaurants.
 1. Are fine-dining restaurants more prevalent in certain neighborhoods?
 	- Chart Type: Radar chart
 1. How does the number of restaurants for each type of cuisine correlate with the total volume of ratings they've received in NYC?
