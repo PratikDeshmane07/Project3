@@ -4,30 +4,38 @@
     margin-bottom: 20px;
 }
 
-.map-title{
-    text-align:center;
+#map-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: "map right-column";
 }
 
-.chart-container {
+#map {
+    grid-area: map;
+}
+
+#right-column {
+    grid-area: right-column;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    margin: 0px auto;
-    width: 1280px;
-    padding: 20px 10px;
 }
 
 #filters-container {
-    position: absolute;
-    top: 200px;
-    right: 10%;
-    z-index: 1000;
-    background-color: #ffffff9a;
-    padding: 15px;
-    border-radius: 8px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+    flex: 1;
+}
+
+
+
+.cuisinepiechart-container, .pricepolarchart-container {
+    flex: 1;
+    width: 100%;
+}
+
+
+
+#filters-container {
+    grid-area: filters;
 }
 
 #filters-container select {

@@ -1,6 +1,6 @@
 // Map
 const map = L.map('map').setView([40.738873, -73.959579], 13); // Coordinates moved a bit more west in NYC
-const url = `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=API_KEY`;
+const url = `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXJpY2ZheWh1eW5oIiwiYSI6ImNsbXBzYmJteTBoNXoybG51bnlwaXNxaDQifQ.fQ6iaJMaFDwYlxWRMvuFBA`;
 
 L.tileLayer(url, {
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
@@ -81,6 +81,7 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
                 }
             });
             createPieChart(filteredData);
+            createPolarChart(filteredData);
 
         }
         populateFilterOptions("#rating-filter", "overall_rating");
@@ -106,6 +107,11 @@ fetch('http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data')
 
         //dining radar chart data
         createRadarChart(data);
+
+        //top 10 donut chart data
+        const doughnutcuisineCounts = countCuisineOccurrences(data);
+        const top10Cuisines = getTop10Cuisines(doughnutcuisineCounts);
+        createDoughnutChart(top10Cuisines, doughnutcuisineCounts);
 
 
         //price polar chart data
@@ -402,14 +408,19 @@ function createDoughnutChart(top10Cuisines, doughnutcuisineCounts) {
 
 
 //price polar chart
+let pieChart = null;
 function createPolarChart(data) {
-    const doughnutcuisineCounts = countCuisineOccurrences(data);
-    const top10Cuisines = getTop10Cuisines(doughnutcuisineCounts);
-    createDoughnutChart(top10Cuisines, doughnutcuisineCounts);
     const pricePerPersonData = data.map(restaurant => restaurant.price_per_person);
     const priceDistribution = calculatePriceDistribution(pricePerPersonData);
-    const ctx2 = document.getElementById('pieChart').getContext('2d');
-    const myChart = new Chart(ctx2, {
+    const ctx3 = document.getElementById('pieChart').getContext('2d');
+       if (pieChart) {
+        pieChart.destroy();
+        pieChart = null;
+    }
+    
+    
+    
+    pieChart = new Chart(ctx3, {
         type: 'polarArea',
         data: {
             labels: ['$ = $30 & under', '$$ = $31 to $50', '$$$ = $50 and over'],
