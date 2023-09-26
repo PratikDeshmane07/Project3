@@ -27,6 +27,7 @@ In this collaborative effort, we developed a comprehensive web application that 
 	- Chart Type: Radar chart
 1. How does the number of restaurants for each type of cuisine correlate with the total volume of ratings they've received in NYC?
 	- Chart Type: Bar chart
+	- Analysis: In regards to the comparison between Italian and American restaurants, one would expect the amount of Ratings to keep pace with the amount of Restaurants, and our Stacked Bar Chart shows that to be true. However, an interesting insight emerged. While Italian and American restaurants receive roughly the same amount of Ratings in the “4.0-to-4.5 Rating Zone” (Tallies: Italian 74, American 72), Italian cuisine far outpaces American in the highest “4.6-to-4.9 Rating Zone”. Italian cuisine has 3-times as many Ratings in the “4.6-to-4.9 Rating Zone” (Tallies: Italian 92, American 34). Thus, despite similar popularity (seen in the total number of Restaurants), Italian cuisine is higher-rated than American. 
 
 ### Data Source
 |Source|Website|
