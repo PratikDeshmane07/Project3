@@ -9,10 +9,10 @@ The primary goal of this project is to create an interactive web application tha
 - SQL Database: Implemented for efficient data storage and retrieval.
 - Data Visualization: Incorporated Chart.js for creating a variety of chart types, including pie charts, bar charts, polar charts, donut charts, and radar charts.
 
-###Summary
+### Summary
 In this collaborative effort, we developed a comprehensive web application that provides insights into restaurants in New York City. The backend was built using Python and Flask, with data stored in an SQL database. The front-end was designed using HTML, CSS, and JavaScript. We also featured interactive maps via Leaflet and Mapbox. Various types of interactive charts were implemented using Chart.js to answer a set of specific research questions.
 
-###Research Questions/User Interactions
+### Research Questions/User Interactions
 1. What is the cuisine diversity of New York City?
 Chart Type: Pie chart
 1. Which restaurants in NYC have received the most reviews, broken down by type of cuisine?
