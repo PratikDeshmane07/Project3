@@ -45,8 +45,10 @@ In this collaborative effort, we developed a comprehensive web application that 
    - `python app.py`
    - If you get error related to CORS not installed : run `pip install -U flask-cors`
 4. You can review json output here: http://127.0.0.1:5000/api/v1.0/kayak_restaurants_data
-5. Open web application using http://127.0.0.1:5000/index URL.
+5. Open web application using http://127.0.0.1:5000/index URL. 
 
+### Live Website
+https://www.ericfayhuynh/porfolio/project1
 
 ### Group Members
 
