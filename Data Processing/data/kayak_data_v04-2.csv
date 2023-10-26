@@ -2,24 +2,24 @@ name,locality,cuisine,price_per_person,overall_rating,food,service,ambiance,revi
 Broadstone Bar & Kitchen,Financial District,American,$,4.2,4.1,4.1,4.1,268,Moderate,Casual Dining,40.7041146,-74.0117291,https://www.kayak.com/New-York-Restaurants-Broadstone-Bar-Kitchen.100052206.rd.ksp
 Stone Street Tavern,Financial District,American,$,4.5,4.4,4.5,4.2,75,Moderate,Casual Dining,40.7042777,-74.010273,https://www.kayak.com/New-York-Restaurants-Stone-Street-Tavern.100020600.rd.ksp
 Industry Kitchen,Financial District,American,$,4.5,4.3,4.4,4.5,440,Moderate,Casual Dining,40.70492095,-74.0048741,https://www.kayak.com/New-York-Restaurants-Industry-Kitchen.100008389.rd.ksp
-The Ketch - NYC,Financial District,Contemporary American,$,4.0,3.9,3.9,3.8,534,Moderate,Casual Elegant,40.7063056,-74.0074663,https://www.kayak.com/New-York-Restaurants-The-Ketch.100028704.rd.ksp
+The Ketch - NYC,Financial District,Contemporary American,$,4,3.9,3.9,3.8,534,Moderate,Casual Elegant,40.7063056,-74.0074663,https://www.kayak.com/New-York-Restaurants-The-Ketch.100028704.rd.ksp
 The Tuck Room- New York,Financial District,Unspecified,$,4.2,4.1,4.1,4.4,1163,Moderate,Casual Elegant,40.7066295,-74.0031405,https://www.kayak.com/New-York-Restaurants-The-Tuck-Room-New-York.100032597.rd.ksp
-FARIDA Central Asian Cuisine & Grill,Hell's Kitchen,Asian,$,4.4,4.5,4.3,4.0,306,Moderate,Casual Dining,40.7071242,-74.0083922,https://www.kayak.com/New-York-Restaurants-FARIDA-Central-Asian-Cuisine-Grill.100056141.rd.ksp
+FARIDA Central Asian Cuisine & Grill,Hell's Kitchen,Asian,$,4.4,4.5,4.3,4,306,Moderate,Casual Dining,40.7071242,-74.0083922,https://www.kayak.com/New-York-Restaurants-FARIDA-Central-Asian-Cuisine-Grill.100056141.rd.ksp
 Il Brigante Restaurant,Financial District,Italian,$,4.5,4.5,4.3,4.2,1576,Moderate,Casual Dining,40.7073831,-74.002626,https://www.kayak.com/New-York-Restaurants-Il-Brigante-Restaurant.100020169.rd.ksp
 Barbalu,Financial District,Italian,$,4.5,4.4,4.4,4.4,46,Moderate,Fine Dining,40.7074502,-74.0020779,https://www.kayak.com/New-York-Restaurants-Barbalu.100005029.rd.ksp
 Kiwi Cuba,Financial District,American,$,4.7,4.2,4.7,4.4,13,Low,Casual Dining,40.7075389,-74.0018114,https://www.kayak.com/New-York-Restaurants-Kiwi-Cuba.101004673.rd.ksp
-Ainsworth Fi Di,Financial District,American,$,4.1,4.0,3.9,4.0,1804,Moderate,Casual Dining,40.7077143,-74.0082787,https://www.kayak.com/New-York-Restaurants-Ainsworth-Fi-Di.100049505.rd.ksp
+Ainsworth Fi Di,Financial District,American,$,4.1,4,3.9,4,1804,Moderate,Casual Dining,40.7077143,-74.0082787,https://www.kayak.com/New-York-Restaurants-Ainsworth-Fi-Di.100049505.rd.ksp
 Blue Ribbon Federal Grill,Financial District,Contemporary American,$,4.5,4.5,4.4,4.3,2134,Moderate,Casual Dining,40.7079853,-74.0077109,https://www.kayak.com/New-York-Restaurants-Blue-Ribbon-Federal-Grill.100052705.rd.ksp
 Miramar,Battery Park City,Seafood,$,4.2,4.2,4.2,4.2,745,Moderate,Casual Dining,40.7079986,-74.0179927,https://www.kayak.com/New-York-Restaurants-Miramar.100052674.rd.ksp
 Acqua Restaurant NYC,Financial District,Italian,$,4.3,4.3,4.3,4.3,2145,Moderate,Casual Dining,40.7082305,-74.0016978,https://www.kayak.com/New-York-Restaurants-Acqua-Restaurant-NYC.100020539.rd.ksp
 Cowgirl Seahorse,Financial District,Café,$,4.4,4.2,4.1,4.2,598,Moderate,Casual Dining,40.7082323,-74.0005339,https://www.kayak.com/New-York-Restaurants-Cowgirl-Seahorse.100030948.rd.ksp
 Kestè Wall Street,Financial District,Pizzeria,$,4.5,4.6,4.3,4.1,463,Low,Casual Dining,40.7091573,-74.004696,https://www.kayak.com/New-York-Restaurants-Keste-Wall-Street.100038157.rd.ksp
 Bill's Bar & Burger Downtown,Financial District,Burgers,$,4.4,3.5,4.3,4.2,34,Moderate,Casual Dining,40.709363,-74.0141805,https://www.kayak.com/New-York-Restaurants-Bill-s-Bar-Burger-Downtown.100002095.rd.ksp
-Carragher’s,Midtown,British,$,4.3,4.0,4.1,4.3,1094,Moderate,Casual Dining,40.7099702,-74.0087412,https://www.kayak.com/New-York-Restaurants-Carraghers.100024064.rd.ksp
+Carragher’s,Midtown,British,$,4.3,4,4.1,4.3,1094,Moderate,Casual Dining,40.7099702,-74.0087412,https://www.kayak.com/New-York-Restaurants-Carraghers.100024064.rd.ksp
 Vino & ... Eataly Downtown NYC,Financial District,Italian,$,4.3,4.5,4.4,4.1,61,Moderate,Casual Dining,40.7100647,-74.0119758,https://www.kayak.com/New-York-Restaurants-Vino-Eataly-Downtown-NYC.101002302.rd.ksp
 El Vez New York,Battery Park City,Mexican,$,4.5,4.4,4.3,4.3,10619,Moderate,Casual Dining,40.7127281,-74.0060152,https://www.kayak.com/New-York-Restaurants-El-Vez-New-York.100004791.rd.ksp
 "The VNYL, Vintage New York Lifestyle",East Village,American,$,3.8,3.1,3.1,3.7,305,Moderate,Elegant Dining,40.7127753,-74.0059728,https://www.kayak.com/New-York-Restaurants-The-VNYL-Vintage-New-York-Lifestyle.100047913.rd.ksp
-Parm Battery Park City,Battery Park City,Italian,$,4.2,4.0,3.8,3.7,2366,Moderate,Casual Dining,40.7144941,-74.016133,https://www.kayak.com/New-York-Restaurants-Parm-Battery-Park-City.100009230.rd.ksp
+Parm Battery Park City,Battery Park City,Italian,$,4.2,4,3.8,3.7,2366,Moderate,Casual Dining,40.7144941,-74.016133,https://www.kayak.com/New-York-Restaurants-Parm-Battery-Park-City.100009230.rd.ksp
 Bacaro,Chinatown,Italian,$,4.4,4.3,4.2,4.5,2694,Moderate,Casual Dining,40.7145382,-73.9916726,https://www.kayak.com/New-York-Restaurants-Bacaro.100017542.rd.ksp
 ATRIO Wine Bar & Restaurant,Battery Park City,Unspecified,$,4.8,4.6,4.8,4.6,25,Moderate,Casual Elegant,40.7150499,-74.0155621,https://www.kayak.com/New-York-Restaurants-ATRIO-Wine-Bar-Restaurant.100020650.rd.ksp
 The Metrograph Commissary,Chinatown,American,$,4.6,4.4,4.4,4.6,504,Moderate,Casual Dining,40.7151002,-73.9910692,https://www.kayak.com/New-York-Restaurants-The-Metrograph-Commissary.100040866.rd.ksp
@@ -30,7 +30,7 @@ Casa Bella Restaurant,Little Italy,Italian,$,4.4,4.5,4.5,4.4,27,Moderate,Casual 
 Sarabeth's TriBeCa,Tribeca,Unspecified,$,4.5,4.5,4.4,4.3,122,Moderate,Casual Dining,40.7182859,-74.01025,https://www.kayak.com/New-York-Restaurants-Sarabeth-s-TriBeCa.100034261.rd.ksp
 Paesano of Mulberry Street,Little Italy,Italian,$,4.7,4.6,4.6,4.7,165,Moderate,Casual Dining,40.7185789,-73.997542,https://www.kayak.com/New-York-Restaurants-Paesano-of-Mulberry-Street.100028562.rd.ksp
 Dinner on Ludlow,Lower East Side,American,$,3.9,3.9,3.8,3.9,374,Moderate,Casual Dining,40.7186318,-73.9893489,https://www.kayak.com/New-York-Restaurants-Dinner-on-Ludlow.100984141.rd.ksp
-Aunt Jake's Little Italy,Little Italy,Italian,$,4.1,4.2,3.9,4.0,101,Moderate,Casual Dining,40.7186515,-73.9979766,https://www.kayak.com/New-York-Restaurants-Aunt-Jake-s-Little-Italy.100042920.rd.ksp
+Aunt Jake's Little Italy,Little Italy,Italian,$,4.1,4.2,3.9,4,101,Moderate,Casual Dining,40.7186515,-73.9979766,https://www.kayak.com/New-York-Restaurants-Aunt-Jake-s-Little-Italy.100042920.rd.ksp
 Los Feliz,Lower East Side,Mexican,$,4.7,4.6,4.3,4.5,41,Moderate,Casual Dining,40.719392,-73.9888436,https://www.kayak.com/New-York-Restaurants-Los-Feliz.100023834.rd.ksp
 Char Sue,Lower East Side,Izakaya,$,4.6,4.6,4.3,4.2,195,Moderate,Casual Dining,40.7196,-73.9879152,https://www.kayak.com/New-York-Restaurants-Char-Sue.100052092.rd.ksp
 Da Nico Restaurant - Manhattan,Little Italy,Italian,$,4.6,4.6,4.5,4.5,274,Moderate,Casual Dining,40.7196637,-73.9969318,https://www.kayak.com/New-York-Restaurants-Da-Nico-Ristorante-Manhattan-Location.100008977.rd.ksp
@@ -71,7 +71,7 @@ Nonna Beppa,Hudson Square,Italian,$,4.4,4.4,4.4,4.3,476,Low,Casual Dining,40.725
 Blue Ribbon Brasserie,SoHo,American,$,4.8,4.8,4.7,4.6,297,Moderate,Casual Elegant,40.7254995,-74.0030627,https://www.kayak.com/New-York-Restaurants-Blue-Ribbon-Brasserie.100972610.rd.ksp
 Bar Primi,East Village,Italian,$,4.7,4.6,4.6,4.5,161,Moderate,Casual Dining,40.7256687,-73.991784,https://www.kayak.com/New-York-Restaurants-Bar-Primi.100005204.rd.ksp
 The Black Ant,East Village,Mexican,$,4.6,4.6,4.4,4.3,54,Moderate,Casual Dining,40.7257664,-73.9895015,https://www.kayak.com/New-York-Restaurants-The-Black-Ant.100005542.rd.ksp
-Kana SoHo Bar,Hudson Square,Latin American,$,3.9,3.8,4.0,3.8,193,Moderate,Casual Dining,40.7258513,-74.0094266,https://www.kayak.com/New-York-Restaurants-Kana-SoHo-Bar.101012007.rd.ksp
+Kana SoHo Bar,Hudson Square,Latin American,$,3.9,3.8,4,3.8,193,Moderate,Casual Dining,40.7258513,-74.0094266,https://www.kayak.com/New-York-Restaurants-Kana-SoHo-Bar.101012007.rd.ksp
 Double Zero,East Village,Italian,$,4.7,4.7,4.4,4.4,65,Moderate,Casual Dining,40.7261117,-73.9897202,https://www.kayak.com/New-York-Restaurants-Double-Zero.100028154.rd.ksp
 Giano,East Village,Italian,$,4.9,4.9,4.9,4.8,128,Moderate,Casual Elegant,40.7261935,-73.9841587,https://www.kayak.com/New-York-Restaurants-Giano.100013889.rd.ksp
 Sadelle’s,SoHo,Breakfast,$,4.7,4.7,4.3,4.6,14647,Moderate,Casual Dining,40.7262525,-74.0001116,https://www.kayak.com/New-York-Restaurants-Sadelles.100023733.rd.ksp
@@ -85,15 +85,15 @@ David's Cafe,East Village,French American,$,4.6,4.6,4.4,4.4,1782,Moderate,Casual
 Westville Hudson,Hudson Square,American,$,4.8,4.7,4.6,4.6,134,Moderate,Casual Dining,40.7272539,-74.0075081,https://www.kayak.com/New-York-Restaurants-Westville-Hudson.100003228.rd.ksp
 Jane,Manhattan,American,$,4.6,4.4,4.5,4.4,100,Moderate,Casual Dining,40.7273302,-74.000275,https://www.kayak.com/New-York-Restaurants-Jane.100008385.rd.ksp
 Eleven B,East Village,Italian,$,4.4,4.3,4.3,4.3,351,Moderate,Casual Dining,40.727419,-73.9796782,https://www.kayak.com/New-York-Restaurants-Eleven-B.100019586.rd.ksp
-West 3rd Common,Manhattan,American,$,4.5,4.4,4.5,4.0,11,Moderate,Casual Elegant,40.7280423,-73.9950106,https://www.kayak.com/New-York-Restaurants-West-3rd-Common.100025344.rd.ksp
+West 3rd Common,Manhattan,American,$,4.5,4.4,4.5,4,11,Moderate,Casual Elegant,40.7280423,-73.9950106,https://www.kayak.com/New-York-Restaurants-West-3rd-Common.100025344.rd.ksp
 Madam Ji,Manhattan,Indian,$,4.2,4.2,4.1,3.7,481,Low,Casual Dining,40.7281846,-73.9996016,https://www.kayak.com/New-York-Restaurants-Surya.100026575.rd.ksp
 "Gyu-Kaku - New York, NY | East Village",NoHo,Japanese,$,4.6,4.7,4.4,4.3,188,Moderate,Casual Dining,40.728255,-73.9914601,https://www.kayak.com/New-York-Restaurants-Gyu-Kaku-East-Village.100020369.rd.ksp
-Favela Cubana,Manhattan,Cuban,$,4.2,4.1,4.0,4.1,1323,Moderate,Casual Dining,40.7284192,-73.9981377,https://www.kayak.com/New-York-Restaurants-Favela-Cubana.100048350.rd.ksp
-Carroll Place,Manhattan,Italian,$,4.2,4.2,4.0,4.2,133,Moderate,Casual Dining,40.7286314,-73.9997681,https://www.kayak.com/New-York-Restaurants-Carroll-Place.100005231.rd.ksp
+Favela Cubana,Manhattan,Cuban,$,4.2,4.1,4,4.1,1323,Moderate,Casual Dining,40.7284192,-73.9981377,https://www.kayak.com/New-York-Restaurants-Favela-Cubana.100048350.rd.ksp
+Carroll Place,Manhattan,Italian,$,4.2,4.2,4,4.2,133,Moderate,Casual Dining,40.7286314,-73.9997681,https://www.kayak.com/New-York-Restaurants-Carroll-Place.100005231.rd.ksp
 Gomi,East Village,Wine Bar,$,4.4,4.3,4.4,4.2,67,Low,Casual Dining,40.7288636,-73.9813167,https://www.kayak.com/New-York-Restaurants-Gomi.100046969.rd.ksp
 Senza Gluten,Manhattan,Italian,$,4.7,4.7,4.7,4.6,325,Moderate,Casual Elegant,40.7290193,-74.0003692,https://www.kayak.com/New-York-Restaurants-Senza-Gluten.100008438.rd.ksp
 The Library at The Public,NoHo,American,$,4.4,4.3,4.3,4.5,20,Moderate,Casual Dining,40.7290343,-73.9918323,https://www.kayak.com/New-York-Restaurants-The-Library-at-the-Public.100022092.rd.ksp
-El Camion,East Village,Mexican,$,4.4,4.3,4.0,3.9,1297,Moderate,Casual Dining,40.7291288,-73.9811182,https://www.kayak.com/New-York-Restaurants-El-Camion.100019356.rd.ksp
+El Camion,East Village,Mexican,$,4.4,4.3,4,3.9,1297,Moderate,Casual Dining,40.7291288,-73.9811182,https://www.kayak.com/New-York-Restaurants-El-Camion.100019356.rd.ksp
 Denino's Greenwich Village,Manhattan,Italian,$,4.8,4.8,4.7,4.6,115,Moderate,Casual Dining,40.7294021,-74.0011852,https://www.kayak.com/New-York-Restaurants-Denino-s-Greenwich-Village.100034069.rd.ksp
 The Copper Still - East,East Village,American,$,4.4,4.3,4.1,4.2,222,Moderate,Casual Dining,40.729545,-73.9872359,https://www.kayak.com/New-York-Restaurants-The-Copper-Still-East.100029401.rd.ksp
 Jack's Wife Freda - Carmine Street,West Village,Contemporary American,$,4.7,4.7,4.8,4.6,90,Moderate,Casual Dining,40.7298568,-74.0035384,https://www.kayak.com/New-York-Restaurants-Jack-s-Wife-Freda-Carmine-Street.100007881.rd.ksp
@@ -101,7 +101,7 @@ Numero 28 Pizzeria - West Village,West Village,Italian,$,4.5,4.6,4.4,4.3,38,Mode
 White Oak Tavern,Manhattan,Comfort food,$,4.5,4.4,4.5,4.5,2470,Moderate,Casual Dining,40.7303749,-73.9946392,https://www.kayak.com/New-York-Restaurants-White-Oak-Tavern.100005524.rd.ksp
 The Smith - East Village,East Village,American,$,4.6,3.5,4.5,4.4,501,Moderate,Casual Dining,40.7309719,-73.9886066,https://www.kayak.com/New-York-Restaurants-The-Smith-East-Village.100010609.rd.ksp
 Snack Taverna,West Village,Greek,$,4.4,4.4,4.2,4.2,3484,Moderate,Casual Dining,40.7310534,-74.0047569,https://www.kayak.com/New-York-Restaurants-Snack-Taverna.100052067.rd.ksp
-Tio Pepe NYC,West Village,Spanish,$,4.1,3.9,4.1,4.0,899,Moderate,Casual Dining,40.7320667,-74.0015583,https://www.kayak.com/New-York-Restaurants-Tio-Pepe.100032992.rd.ksp
+Tio Pepe NYC,West Village,Spanish,$,4.1,3.9,4.1,4,899,Moderate,Casual Dining,40.7320667,-74.0015583,https://www.kayak.com/New-York-Restaurants-Tio-Pepe.100032992.rd.ksp
 Claudette,Manhattan,French,$,4.5,4.4,4.4,4.5,9935,Moderate,Casual Elegant,40.7330582,-73.9960229,https://www.kayak.com/New-York-Restaurants-Claudette.100004943.rd.ksp
 Olio e Più,West Village,Italian,$,4.6,4.6,4.5,4.6,988,Moderate,Casual Dining,40.7337937,-73.9997745,https://www.kayak.com/New-York-Restaurants-Olio-e-Piu.100017071.rd.ksp
 Agave,West Village,Unspecified,$,4.4,4.4,4.3,4.2,92,Moderate,Casual Elegant,40.7347312,-74.0023782,https://www.kayak.com/New-York-Restaurants-Agave.100013127.rd.ksp
@@ -109,7 +109,7 @@ Pinto Garden,West Village,Thaï,$,4.5,4.4,4.3,4.5,1063,Moderate,Casual Dining,40
 Extra Virgin Restaurant,West Village,Mediterranean,$,4.4,4.3,4.2,4.3,250,Moderate,Casual Dining,40.7353475,-74.0031806,https://www.kayak.com/New-York-Restaurants-Extra-Virgin-Restaurant.100033452.rd.ksp
 Max Brenner - Union Square,Manhattan,Comfort food,$,4.3,4.3,4.4,4.2,363,Moderate,Casual Dining,40.7358633,-73.9910835,https://www.kayak.com/New-York-Restaurants-Max-Brenner-Union-Square.100039865.rd.ksp
 5 Napkin Burger - Union Square,East Village,Burgers,$,4.2,4.2,4.1,3.9,3254,Moderate,Casual Elegant,40.7358633,-73.9910835,https://www.kayak.com/New-York-Restaurants-5-Napkin-Burger-Union-Square.100050348.rd.ksp
-Spice - Union Square,Manhattan,Thaï,$,3.9,4.0,3.5,3.6,1621,Moderate,Casual Dining,40.7358633,-73.9910835,https://www.kayak.com/New-York-Restaurants-Spice-Union-Square.100051174.rd.ksp
+Spice - Union Square,Manhattan,Thaï,$,3.9,4,3.5,3.6,1621,Moderate,Casual Dining,40.7358633,-73.9910835,https://www.kayak.com/New-York-Restaurants-Spice-Union-Square.100051174.rd.ksp
 Hudson Hound,West Village,American,$,4.5,4.3,4.5,4.3,15,Moderate,Casual Dining,40.7361111,-74.0061111,https://www.kayak.com/New-York-Restaurants-Hudson-Hound.100025800.rd.ksp
 Pierre Loti Union Square,Gramercy,Mediterranean,$,4.6,4.2,4.6,4.4,30,Moderate,Casual Dining,40.7361222,-73.9874298,https://www.kayak.com/New-York-Restaurants-Pierre-Loti-Union-Square.100018080.rd.ksp
 Flex Mussels - West Village,West Village,Seafood,$,4.8,4.9,4.7,4.7,43,Moderate,Casual Dining,40.7374687,-73.999649,https://www.kayak.com/New-York-Restaurants-Flex-Mussels-13th-Street.100042341.rd.ksp
@@ -119,18 +119,18 @@ L'Express,Gramercy,French,$,4.6,4.5,4.4,4.4,183,Moderate,Casual Dining,40.738099
 Brunetti Pizza - West Village,West Village,Pizzeria,$,4.5,4.5,4.6,4.4,68,Moderate,Casual Dining,40.738268,-74.005377,https://www.kayak.com/New-York-Restaurants-Brunetti-Pizza-West-Village.100004214.rd.ksp
 Bocca Cucina & Bar,Gramercy,Italian,$,4.3,4.3,4.3,4.1,7605,Moderate,Casual Dining,40.738276,-73.9888627,https://www.kayak.com/New-York-Restaurants-Bocca.100005078.rd.ksp
 La Nacional Restaurant,Chelsea,Spanish,$,4.7,4.7,4.5,4.5,167,Moderate,Casual Dining,40.7393804,-74.0012272,https://www.kayak.com/New-York-Restaurants-La-Nacional-Restaurant.101054014.rd.ksp
-Natsumi Tapas,Midtown,Japanese,$,4.4,4.3,4.0,4.2,1597,Moderate,Casual Dining,40.7395596,-73.9823286,https://www.kayak.com/New-York-Restaurants-Natsumi-Tapas.100027712.rd.ksp
+Natsumi Tapas,Midtown,Japanese,$,4.4,4.3,4,4.2,1597,Moderate,Casual Dining,40.7395596,-73.9823286,https://www.kayak.com/New-York-Restaurants-Natsumi-Tapas.100027712.rd.ksp
 Patrizia's of 2nd Avenue,Midtown,Italian,$,4.3,4.1,4.4,4.1,45,Moderate,Casual Dining,40.7399139,-73.9791031,https://www.kayak.com/New-York-Restaurants-Patrizia-s-of-2nd-Avenue.100028712.rd.ksp
 BoCaPhe Chelsea,Chelsea,Vietnamese,$,4.6,4.4,4.8,4.4,13,Moderate,Casual Dining,40.740504,-74.0016198,https://www.kayak.com/New-York-Restaurants-BoCaphe.100029430.rd.ksp
-Flatiron Hall,Flatiron District,American,$,4.3,4.1,4.1,4.0,768,Moderate,Casual Dining,40.7410065,-73.9896538,https://www.kayak.com/New-York-Restaurants-Flatiron-Hall.100052630.rd.ksp
-Dolcino Trattoria Toscana,Midtown,Italian,$,4.1,4.0,4.1,3.8,471,Low,Casual Dining,40.7415752,-73.9785218,https://www.kayak.com/New-York-Restaurants-Dolcino-Trattoria-Toscana.100052744.rd.ksp
+Flatiron Hall,Flatiron District,American,$,4.3,4.1,4.1,4,768,Moderate,Casual Dining,40.7410065,-73.9896538,https://www.kayak.com/New-York-Restaurants-Flatiron-Hall.100052630.rd.ksp
+Dolcino Trattoria Toscana,Midtown,Italian,$,4.1,4,4.1,3.8,471,Low,Casual Dining,40.7415752,-73.9785218,https://www.kayak.com/New-York-Restaurants-Dolcino-Trattoria-Toscana.100052744.rd.ksp
 BXL ZOUTE,Flatiron District,Belgian,$,4.6,4.6,4.6,4.5,60,Moderate,Casual Dining,40.7417874,-73.9925761,https://www.kayak.com/New-York-Restaurants-BXL-ZOUTE.100000198.rd.ksp
 La Pizza & La Pasta - Eataly NYC Flatiron,Flatiron District,Italian,$,4.3,4.5,4.2,4.1,685,Moderate,Casual Dining,40.7419931,-73.9899357,https://www.kayak.com/New-York-Restaurants-La-Pizza-La-Pasta-Eataly-NYC-Flatiron.101006195.rd.ksp
 Bread & Tulips,Midtown,Italian,$,4.6,4.5,4.8,4.8,13,Low,Casual Elegant,40.7421174,-73.984741,https://www.kayak.com/New-York-Restaurants-Bread-Tulips.100018423.rd.ksp
 Pippali,Midtown,Contemporary Indian,$,4.7,4.7,4.6,4.3,30,Moderate,Casual Elegant,40.7423568,-73.9833045,https://www.kayak.com/New-York-Restaurants-Pippali.100035903.rd.ksp
 Chote Nawab,Midtown,Indian,$,4.2,4.3,3.9,3.7,1197,Moderate,Casual Dining,40.7424558,-73.982328,https://www.kayak.com/New-York-Restaurants-Chote-Nawab.100019367.rd.ksp
 Cull and Pistol,Chelsea,Seafood,$,4.5,4.5,4.4,4.1,1888,Moderate,Casual Dining,40.7426575,-74.0059408,https://www.kayak.com/New-York-Restaurants-Cull-and-Pistol.100051676.rd.ksp
-Home Base Bistro,Midtown,Tapas / Small Plates,$,4.3,4.0,4.2,4.1,244,Moderate,Casual Dining,40.7430502,-73.9804794,https://www.kayak.com/New-York-Restaurants-Home-Base-Bistro.100008477.rd.ksp
+Home Base Bistro,Midtown,Tapas / Small Plates,$,4.3,4,4.2,4.1,244,Moderate,Casual Dining,40.7430502,-73.9804794,https://www.kayak.com/New-York-Restaurants-Home-Base-Bistro.100008477.rd.ksp
 Lasagna Restaurant – Chelsea,Chelsea,Italian,$,4.5,4.4,4.4,4.3,27,Moderate,Casual Dining,40.7432349,-73.9997149,https://www.kayak.com/New-York-Restaurants-Lasagna-Restaurant-Chelsea.100018286.rd.ksp
 Wagamama (Nomad - 5th Avenue),Flatiron District,Asian,$,4.4,4.3,4.3,4.5,194,Moderate,Casual Dining,40.743366,-73.9887037,https://www.kayak.com/New-York-Restaurants-Wagamama-Nomad-5th-Avenue-.100049092.rd.ksp
 La Pecora Bianca - NoMad,Flatiron District,Italian,$,4.5,4.5,4.3,4.4,14575,Moderate,Casual Dining,40.7437112,-73.9892129,https://www.kayak.com/New-York-Restaurants-La-Pecora-Bianca-NoMad.100051714.rd.ksp
@@ -148,29 +148,29 @@ Zia Maria - Chelsea,Chelsea,Italian,$,4.5,4.4,4.5,4.2,78,Moderate,Casual Dining,
 Le Parisien,Midtown,French,$,4.7,4.8,4.8,4.6,225,Moderate,Casual Dining,40.7454199,-73.9791492,https://www.kayak.com/New-York-Restaurants-Le-Parisien.101014716.rd.ksp
 Cookshop,Chelsea,American,$,4.4,4.3,4.3,4.1,32428,Moderate,Casual Elegant,40.7457199,-74.0054281,https://www.kayak.com/New-York-Restaurants-Cookshop.100015134.rd.ksp
 Crompton Ale House,Chelsea,American,$,4.2,4.2,4.2,4.2,530,Moderate,Casual Dining,40.7458092,-73.9933019,https://www.kayak.com/New-York-Restaurants-Crompton-Ale-House.100010305.rd.ksp
-Jackson Hole - Murray Hill,Midtown,Burgers,$,4.0,3.9,3.9,2.9,11,Moderate,Casual Dining,40.7461701,-73.9775096,https://www.kayak.com/New-York-Restaurants-Jackson-Hole-Murray-Hill.100052676.rd.ksp
+Jackson Hole - Murray Hill,Midtown,Burgers,$,4,3.9,3.9,2.9,11,Moderate,Casual Dining,40.7461701,-73.9775096,https://www.kayak.com/New-York-Restaurants-Jackson-Hole-Murray-Hill.100052676.rd.ksp
 Woodpecker by David Burke,Midtown,American,$,4.3,4.3,4.2,4.1,2376,Moderate,Casual Elegant,40.7464289,-73.9880074,https://www.kayak.com/New-York-Restaurants-Woodpecker-by-David-Burke.100050822.rd.ksp
 Soju Haus,Midtown,Korean,$,4.5,4.5,4.3,4.4,758,Moderate,Casual Dining,40.7470064,-73.9853791,https://www.kayak.com/New-York-Restaurants-Soju-Haus.100032603.rd.ksp
-O'Reilly's Pub,Midtown,Irish,$,4.1,4.1,4.0,3.9,122,Moderate,Casual Dining,40.7475728,-73.98886433,https://www.kayak.com/New-York-Restaurants-O-Reilly-s-Pub.100027900.rd.ksp
+O'Reilly's Pub,Midtown,Irish,$,4.1,4.1,4,3.9,122,Moderate,Casual Dining,40.7475728,-73.98886433,https://www.kayak.com/New-York-Restaurants-O-Reilly-s-Pub.100027900.rd.ksp
 Le Pif- Chelsea,Chelsea,French,$,4.5,4.5,4.4,4.4,588,Moderate,Casual Dining,40.7476868,-74.0037054,https://www.kayak.com/New-York-Restaurants-Le-Pif-Chelsea.100037514.rd.ksp
 Calle Dao - Chelsea,Chelsea,Unspecified,$,4.3,4.2,4.1,4.4,739,Moderate,Casual Dining,40.747693,-74.0035074,https://www.kayak.com/New-York-Restaurants-Calle-Dao-Chelsea.100042716.rd.ksp
-Empellon Al Pastor (Murray Hill),Midtown,Dining bar,$,4.0,4.0,4.0,3.9,478,Moderate,Casual Dining,40.7493962,-73.9765859,https://www.kayak.com/New-York-Restaurants-Empellon-Al-Pastor-Murray-Hill-.100052327.rd.ksp
+Empellon Al Pastor (Murray Hill),Midtown,Dining bar,$,4,4,4,3.9,478,Moderate,Casual Dining,40.7493962,-73.9765859,https://www.kayak.com/New-York-Restaurants-Empellon-Al-Pastor-Murray-Hill-.100052327.rd.ksp
 House of Lasagna,Midtown,Italian,$,4.8,4.8,4.7,4.6,71,Moderate,Casual Dining,40.7497222,-73.9775,https://www.kayak.com/New-York-Restaurants-House-of-Lasagna.100016842.rd.ksp
 Kokage,Midtown,Japanese,$,4.5,4.5,4.5,4.6,74,Moderate,Casual Dining,40.7498505,-73.9777336,https://www.kayak.com/New-York-Restaurants-Kokage.101032594.rd.ksp
-Feile,Chelsea,Irish,$,4.1,4.0,4.2,3.9,725,Moderate,Casual Dining,40.7498635,-73.9897361,https://www.kayak.com/New-York-Restaurants-Feile.100018440.rd.ksp
+Feile,Chelsea,Irish,$,4.1,4,4.2,3.9,725,Moderate,Casual Dining,40.7498635,-73.9897361,https://www.kayak.com/New-York-Restaurants-Feile.100018440.rd.ksp
 Madangsui-NY,Midtown,Korean,$,4.3,4.3,4.2,3.7,1953,Moderate,Casual Dining,40.7498905,-73.9856774,https://www.kayak.com/New-York-Restaurants-Madangsui-NY.100008363.rd.ksp
 The Liberty NYC,Midtown,American,$,4.6,4.4,4.7,4.4,80,Moderate,Casual Dining,40.7498981,-73.9855555,https://www.kayak.com/New-York-Restaurants-The-Liberty-NYC.100036353.rd.ksp
-Habanero Blues,Midtown,Mexican,$,4.0,3.9,3.8,3.9,876,Moderate,Casual Dining,40.7505665,-73.985069,https://www.kayak.com/New-York-Restaurants-Habanero-Blues.100031507.rd.ksp
+Habanero Blues,Midtown,Mexican,$,4,3.9,3.8,3.9,876,Moderate,Casual Dining,40.7505665,-73.985069,https://www.kayak.com/New-York-Restaurants-Habanero-Blues.100031507.rd.ksp
 Stella 34 Trattoria,Midtown,Italian,$,4.3,4.2,4.3,4.3,227,Moderate,Casual Elegant,40.7507401,-73.9896197,https://www.kayak.com/New-York-Restaurants-Stella-34-Trattoria.101017035.rd.ksp
 Ovest Pizzoteca,Chelsea,Pizzeria,$,4.7,4.5,4.5,4.4,56,Moderate,Elegant Dining,40.7507508,-74.0030219,https://www.kayak.com/New-York-Restaurants-Ovest-Pizzoteca.100028125.rd.ksp
-Reichenbach Hall,Midtown,German,$,4.2,4.0,3.9,4.0,1694,Moderate,Casual Dining,40.7508098,-73.9840031,https://www.kayak.com/New-York-Restaurants-Reichenbach-Hall.100037137.rd.ksp
+Reichenbach Hall,Midtown,German,$,4.2,4,3.9,4,1694,Moderate,Casual Dining,40.7508098,-73.9840031,https://www.kayak.com/New-York-Restaurants-Reichenbach-Hall.100037137.rd.ksp
 Rowland's Bar & Grill,Midtown,American,$,4.1,4.1,4.1,3.8,411,Moderate,Casual Dining,40.751113,-73.9890814,https://www.kayak.com/New-York-Restaurants-Rowland-s-Bar-Grill.101017972.rd.ksp
 Zaika New York,Midtown,Indian,$,4.3,4.4,4.3,4.1,149,Low,Casual Elegant,40.7512444,-73.972053,https://www.kayak.com/New-York-Restaurants-Zaika-New-York.100043561.rd.ksp
 Calle Dao - Bryant Park,Midtown,Unspecified,$,4.3,4.3,4.3,4.3,2513,Moderate,Casual Elegant,40.7521634,-73.9842196,https://www.kayak.com/New-York-Restaurants-Calle-Dao-Bryant-Park.100042886.rd.ksp
-Tick Tock Diner NY,Hell's Kitchen,American,$,4.2,4.0,4.2,4.0,143,Moderate,Casual Dining,40.75242,-73.993544,https://www.kayak.com/New-York-Restaurants-Tick-Tock-Diner-NY.100986810.rd.ksp
+Tick Tock Diner NY,Hell's Kitchen,American,$,4.2,4,4.2,4,143,Moderate,Casual Dining,40.75242,-73.993544,https://www.kayak.com/New-York-Restaurants-Tick-Tock-Diner-NY.100986810.rd.ksp
 Legasea Bar & Grill,Midtown,American,$,4.4,4.4,4.5,4.4,233,Moderate,Casual Dining,40.7524572,-73.9893668,https://www.kayak.com/New-York-Restaurants-Legasea-Bar-Grill.101006418.rd.ksp
 THE BAR at Great Northern Food Hall,Midtown,Scandinavian,$,4.4,4.3,3.9,3.9,196,Moderate,Casual Dining,40.7527262,-73.9772294,https://www.kayak.com/New-York-Restaurants-THE-BAR-at-Great-Northern-Food-Hall.100038981.rd.ksp
-Stout NYC Grand Central,Midtown,Bar / Lounge / Bottle Service,$,4.2,4.0,4.1,4.0,298,Moderate,Casual Dining,40.7527262,-73.9772294,https://www.kayak.com/New-York-Restaurants-Stout-NYC-Grand-Central.100046949.rd.ksp
+Stout NYC Grand Central,Midtown,Bar / Lounge / Bottle Service,$,4.2,4,4.1,4,298,Moderate,Casual Dining,40.7527262,-73.9772294,https://www.kayak.com/New-York-Restaurants-Stout-NYC-Grand-Central.100046949.rd.ksp
 Da Raffaele - NYC,Midtown,Italian,$,4.4,4.3,4.4,4.3,37,Moderate,Casual Dining,40.7535648,-73.9666471,https://www.kayak.com/New-York-Restaurants-Da-Raffaele-NYC.100980320.rd.ksp
 Chef Yu,Midtown,Chinese,$,4.4,4.3,4.3,4.4,29,Moderate,Casual Dining,40.7536515,-73.9922102,https://www.kayak.com/New-York-Restaurants-Chef-Yu.100035045.rd.ksp
 The Houndstooth Pub,Midtown,American,$,3.9,3.8,3.8,3.7,765,Moderate,Casual Elegant,40.753839,-73.99204,https://www.kayak.com/New-York-Restaurants-The-Houndstooth-Pub.100027001.rd.ksp
@@ -179,62 +179,62 @@ District Tap House,Midtown,American,$,4.5,4.2,4.6,4.3,35,Moderate,Casual Dining,
 Copinette,Midtown,American,$,4.5,4.5,4.5,4.4,344,Moderate,Casual Dining,40.7541516,-73.9662617,https://www.kayak.com/New-York-Restaurants-Copinette.100050819.rd.ksp
 The Skylark NYC,Midtown,American,$,4.5,4.2,4.2,4.7,2756,Moderate,Casual Dining,40.7541889,-73.9888567,https://www.kayak.com/New-York-Restaurants-The-Skylark-NYC.100004953.rd.ksp
 Sip Sak,Midtown,Turkish,$,4.5,4.4,4.4,4.1,41,Moderate,Casual Dining,40.754364,-73.968535,https://www.kayak.com/New-York-Restaurants-Sip-Sak.100051144.rd.ksp
-Doylers 37 NYC,Hell's Kitchen,Irish,$,4.1,3.9,4.0,3.8,31,Low,Casual Dining,40.7544586,-73.9935479,https://www.kayak.com/New-York-Restaurants-Doylers-37-NYC.101004698.rd.ksp
+Doylers 37 NYC,Hell's Kitchen,Irish,$,4.1,3.9,4,3.8,31,Low,Casual Dining,40.7544586,-73.9935479,https://www.kayak.com/New-York-Restaurants-Doylers-37-NYC.101004698.rd.ksp
 Pathos Cafe,Midtown,Mediterranean,$,4.4,4.4,4.3,4.2,454,Moderate,Casual Dining,40.7545264,-73.9654648,https://www.kayak.com/New-York-Restaurants-Pathos-Cafe.100039169.rd.ksp
 Deux Amis,Midtown,French,$,4.6,4.6,4.4,4.5,123,Moderate,Casual Dining,40.7545966,-73.9661633,https://www.kayak.com/New-York-Restaurants-Deux-Amis.100002261.rd.ksp
 La Pecora Bianca - Midtown,Midtown,Italian,$,4.6,4.5,4.3,4.5,7836,Moderate,Casual Dining,40.7549194,-73.9682485,https://www.kayak.com/New-York-Restaurants-La-Pecora-Bianca-Midtown.100041174.rd.ksp
 Toloache-Midtown,Midtown,Mexican,$,4.5,4.6,4.5,4.3,606,Moderate,Casual Dining,40.7549309,-73.9840195,https://www.kayak.com/New-York-Restaurants-Toloache-Midtown.100005229.rd.ksp
 Souvlaki GR Midtown,Midtown,Greek,$,4.7,4.7,4.6,4.2,98,Moderate,Casual Dining,40.7549309,-73.9840195,https://www.kayak.com/New-York-Restaurants-Souvlaki-GR-Midtown.100024524.rd.ksp
 Tommy Bahama - New York,Midtown,American,$,4.7,4.7,4.6,4.6,322,Moderate,Casual Elegant,40.7553925,-73.9784052,https://www.kayak.com/New-York-Restaurants-Tommy-Bahama-New-York.100022456.rd.ksp
-Karizma Hookah Lounge,Midtown,Middle Eastern,$,4.1,3.6,3.9,4.0,162,Moderate,Casual Dining,40.7556062,-73.9688181,https://www.kayak.com/New-York-Restaurants-Karizma-Hookah-Lounge.100048610.rd.ksp
+Karizma Hookah Lounge,Midtown,Middle Eastern,$,4.1,3.6,3.9,4,162,Moderate,Casual Dining,40.7556062,-73.9688181,https://www.kayak.com/New-York-Restaurants-Karizma-Hookah-Lounge.100048610.rd.ksp
 Spice Symphony – 50th St.,Midtown,Indian,$,4.6,4.7,4.5,4.3,116,Moderate,Casual Dining,40.7558918,-73.9716131,https://www.kayak.com/New-York-Restaurants-Spice-Symphony-50th-St-.100022380.rd.ksp
 Pierre Loti Midtown,Midtown,Turkish,$,4.4,4.2,4.4,4.2,871,Moderate,Casual Dining,40.7559064,-73.9673248,https://www.kayak.com/New-York-Restaurants-Pierre-Loti-Midtown.100048365.rd.ksp
-Maggie's Place,Midtown,Irish,$,4.2,4.0,4.1,3.9,1158,Moderate,Casual Dining,40.7562153,-73.9771764,https://www.kayak.com/New-York-Restaurants-Maggie-s-Place.100018441.rd.ksp
+Maggie's Place,Midtown,Irish,$,4.2,4,4.1,3.9,1158,Moderate,Casual Dining,40.7562153,-73.9771764,https://www.kayak.com/New-York-Restaurants-Maggie-s-Place.100018441.rd.ksp
 Bistango at The Kimberly Hotel,Midtown,Italian,$,4.7,4.7,4.6,4.4,104,Moderate,Casual Elegant,40.7563583,-73.9713636,https://www.kayak.com/New-York-Restaurants-Bistango-at-The-Kimberly-Hotel.100007017.rd.ksp
-The Long Room,Midtown,Irish,$,4.1,4.0,4.1,4.0,943,Moderate,Casual Dining,40.7564107,-73.9843398,https://www.kayak.com/New-York-Restaurants-The-Long-Room.100018703.rd.ksp
+The Long Room,Midtown,Irish,$,4.1,4,4.1,4,943,Moderate,Casual Dining,40.7564107,-73.9843398,https://www.kayak.com/New-York-Restaurants-The-Long-Room.100018703.rd.ksp
 Ninos 46,Midtown,Contemporary Italian,$,4.5,4.4,4.4,4.1,70,Moderate,Casual Dining,40.7568194,-73.9805587,https://www.kayak.com/New-York-Restaurants-Ninos-46.100030801.rd.ksp
 Virgil's Real BBQ - New York City,Midtown,Barbecue,$,4.4,4.3,4.4,4.2,570,Moderate,Casual Dining,40.7568784,-73.9853179,https://www.kayak.com/New-York-Restaurants-Virgil-s-Real-BBQ-New-York-City.100011262.rd.ksp
-Via Italia Restaurant,Midtown,Italian,$,3.9,4.0,3.9,3.7,367,Low,Casual Dining,40.7569108,-73.9807398,https://www.kayak.com/New-York-Restaurants-Via-Italia-Restaurant.100051023.rd.ksp
+Via Italia Restaurant,Midtown,Italian,$,3.9,4,3.9,3.7,367,Low,Casual Dining,40.7569108,-73.9807398,https://www.kayak.com/New-York-Restaurants-Via-Italia-Restaurant.100051023.rd.ksp
 Angelo Bellini Italian Restaurant,Midtown,Italian,$,3.6,3.6,3.6,3.7,40,Moderate,Casual Dining,40.757136,-73.968488,https://www.kayak.com/New-York-Restaurants-Angelo-Bellini-Italian-Restaurant.100022165.rd.ksp
 Souvlaki GR Kouzina,Midtown,Greek,$,4.9,4.9,4.9,4.9,14,Moderate,Casual Dining,40.7572778,-73.9680576,https://www.kayak.com/New-York-Restaurants-Souvlaki-GR-Kouzina.100055858.rd.ksp
 Connolly's Pub and Restaurant - 45th,Midtown,American,$,4.5,4.4,4.6,4.5,112,Moderate,Casual Dining,40.7573681,-73.9835798,https://www.kayak.com/New-York-Restaurants-Connolly-s-Pub-and-Restaurant-45th.100020311.rd.ksp
-Connolly's Pub and Restaurant - 47th,Midtown,American,$,4.2,3.9,4.0,4.0,37,Moderate,Casual Dining,40.7573681,-73.9835798,https://www.kayak.com/New-York-Restaurants-Connolly-s-Pub-and-Restaurant-47th.100051162.rd.ksp
+Connolly's Pub and Restaurant - 47th,Midtown,American,$,4.2,3.9,4,4,37,Moderate,Casual Dining,40.7573681,-73.9835798,https://www.kayak.com/New-York-Restaurants-Connolly-s-Pub-and-Restaurant-47th.100051162.rd.ksp
 Gu Japanese Fusion Sushi and Bar,Midtown,Japanese,$,4.5,4.4,4.3,4.2,60,Moderate,Casual Dining,40.7573972,-73.9703557,https://www.kayak.com/New-York-Restaurants-Gu-Japanese-Fusion-Sushi-and-Bar.100050534.rd.ksp
 The Perfect Pint - West,Midtown,American,$,4.4,4.3,4.5,4.3,92,Moderate,Casual Dining,40.7574092,-73.9837409,https://www.kayak.com/New-York-Restaurants-The-Perfect-Pint-West.100020337.rd.ksp
 Carmine's - 44th Street - NYC,Midtown,Italian,$,4.6,4.6,4.5,4.5,3757,Moderate,Casual Elegant,40.757498,-73.986654,https://www.kayak.com/New-York-Restaurants-Carmine-s-44th-Street-NYC.100011253.rd.ksp
 New York Kimchi,Midtown,Korean,$,4.1,4.2,4.2,3.6,193,Moderate,Casual Dining,40.7576124,-73.9791762,https://www.kayak.com/New-York-Restaurants-New-York-Kimchi.100006117.rd.ksp
 O'Lunney's Times Square Pub,Midtown,Irish,$,4.4,4.3,4.5,4.3,282,Moderate,Casual Dining,40.7576169,-73.9843645,https://www.kayak.com/New-York-Restaurants-O-Lunney-s-Times-Square-Pub.100022250.rd.ksp
-Dos Caminos - Times Square,Midtown,Mexican,$,4.2,4.2,4.1,4.0,316,Moderate,Casual Dining,40.7579747,-73.9855426,https://www.kayak.com/New-York-Restaurants-Dos-Caminos-Times-Square.100986227.rd.ksp
+Dos Caminos - Times Square,Midtown,Mexican,$,4.2,4.2,4.1,4,316,Moderate,Casual Dining,40.7579747,-73.9855426,https://www.kayak.com/New-York-Restaurants-Dos-Caminos-Times-Square.100986227.rd.ksp
 Sean's Bar & Kitchen,Midtown,Irish,$,4.2,4.1,4.4,4.1,30,Moderate,Casual Dining,40.7579901,-73.9800977,https://www.kayak.com/New-York-Restaurants-Sean-s-Bar-Kitchen.100029467.rd.ksp
-Crimson & Rye,Midtown,Cocktail bar,$,4.3,4.0,4.2,4.2,182,Moderate,Casual Dining,40.7581145,-73.9686963,https://www.kayak.com/New-York-Restaurants-Crimson-Rye.100023857.rd.ksp
+Crimson & Rye,Midtown,Cocktail bar,$,4.3,4,4.2,4.2,182,Moderate,Casual Dining,40.7581145,-73.9686963,https://www.kayak.com/New-York-Restaurants-Crimson-Rye.100023857.rd.ksp
 Yama Ramen & Sushi,Midtown,Sushi,$,4.5,4.5,4.5,4.1,42,Moderate,Casual Dining,40.7582206,-73.9805984,https://www.kayak.com/New-York-Restaurants-Yama-Ramen.100039057.rd.ksp
 Haven Rooftop,Midtown,American,$,4.3,4.2,4.3,4.4,685,Moderate,Casual Elegant,40.7583844,-73.9832932,https://www.kayak.com/New-York-Restaurants-Haven-Rooftop.100021825.rd.ksp
 NAYA Mezze & Grill,Midtown,Lebanese,$,4.4,4.4,4.3,4.2,6924,Moderate,Casual Elegant,40.7584922,-73.9661187,https://www.kayak.com/New-York-Restaurants-NAYA-Mezze-Grill.100012264.rd.ksp
 Bocca Di Bacco (Theatre District - 45th St.),Hell's Kitchen,Italian,$,4.5,4.5,4.5,4.3,190,Moderate,Casual Dining,40.759011,-73.9844722,https://www.kayak.com/New-York-Restaurants-Bocca-Di-Bacco-Theatre-District-45th-St-.100015263.rd.ksp
 "Gyu-Kaku - New York, NY | Midtown",Midtown,Japanese,$,4.7,4.7,4.5,4.4,292,Moderate,Casual Elegant,40.7591217,-73.9898914,https://www.kayak.com/New-York-Restaurants-Gyu-Kaku-Midtown.100020366.rd.ksp
-Esca,Hell's Kitchen,Italian,$,4.2,4.2,4.2,4.0,14102,Moderate,Casual Elegant,40.7592099,-73.9926165,https://www.kayak.com/New-York-Restaurants-Esca.100003650.rd.ksp
+Esca,Hell's Kitchen,Italian,$,4.2,4.2,4.2,4,14102,Moderate,Casual Elegant,40.7592099,-73.9926165,https://www.kayak.com/New-York-Restaurants-Esca.100003650.rd.ksp
 "Gyu-Kaku - New York, NY | Times Square",Hell's Kitchen,Japanese,$,4.7,4.7,4.7,4.5,232,Moderate,Casual Dining,40.75923,-73.9846345,https://www.kayak.com/New-York-Restaurants-Gyu-Kaku-New-York-NY-Times-Square.101016610.rd.ksp
-Under the Bridge,Midtown,Greek,$,4.4,4.4,4.3,4.0,2455,Moderate,Casual Dining,40.7595821,-73.9622337,https://www.kayak.com/New-York-Restaurants-Under-the-Bridge.100028439.rd.ksp
+Under the Bridge,Midtown,Greek,$,4.4,4.4,4.3,4,2455,Moderate,Casual Dining,40.7595821,-73.9622337,https://www.kayak.com/New-York-Restaurants-Under-the-Bridge.100028439.rd.ksp
 Mama Mia - 44sw,Hell's Kitchen,Italian,$,4.5,4.5,4.4,4.4,75,Moderate,Casual Dining,40.75972,-73.9919266,https://www.kayak.com/New-York-Restaurants-Mama-Mia-44sw.100005153.rd.ksp
 Marseille,Hell's Kitchen,French,$,4.5,4.5,4.6,4.5,798,Moderate,Casual Dining,40.7597501,-73.991404,https://www.kayak.com/New-York-Restaurants-Marseille.100010635.rd.ksp
-Scarlatto,Hell's Kitchen,Italian,$,4.0,4.0,4.0,3.8,10693,Moderate,Casual Dining,40.7598975,-73.9865625,https://www.kayak.com/New-York-Restaurants-Scarlatto.100017756.rd.ksp
+Scarlatto,Hell's Kitchen,Italian,$,4,4,4,3.8,10693,Moderate,Casual Dining,40.7598975,-73.9865625,https://www.kayak.com/New-York-Restaurants-Scarlatto.100017756.rd.ksp
 The Mean Fiddler,Midtown,American,$,4.3,4.3,4.4,4.1,1262,Moderate,Casual Dining,40.7601307,-73.9871355,https://www.kayak.com/New-York-Restaurants-The-Mean-Fiddler.100038712.rd.ksp
 5 Napkin Burger - Hell's Kitchen,Hell's Kitchen,Burgers,$,4.7,4.6,4.5,4.4,413,Moderate,Casual Dining,40.7601614,-73.9911074,https://www.kayak.com/New-York-Restaurants-5-Napkin-Burger-Hell-s-Kitchen.100011215.rd.ksp
 Blooms Tavern,Midtown,American,$,4.4,4.6,4.4,4.1,14,Moderate,Casual Dining,40.7605255,-73.9665898,https://www.kayak.com/New-York-Restaurants-Blooms-Tavern.100003869.rd.ksp
-Obao,Hell's Kitchen,Thaï,$,4.2,4.2,4.0,4.1,10982,Moderate,Casual Dining,40.7606269,-73.9912736,https://www.kayak.com/New-York-Restaurants-Obao.100017381.rd.ksp
-LeGrande Lounge,Midtown,Bar / Lounge / Bottle Service,$,2.9,3.5,3.0,3.0,78,Moderate,Casual Dining,40.7607185,-73.9847424,https://www.kayak.com/New-York-Restaurants-LeGrande-Lounge.101005532.rd.ksp
-La Pulperia 46th Street,Hell's Kitchen,Latin American,$,4.2,4.2,4.3,4.0,2205,Moderate,Casual Elegant,40.7609547,-73.9902635,https://www.kayak.com/New-York-Restaurants-La-Pulperia-46th-Street.100035912.rd.ksp
+Obao,Hell's Kitchen,Thaï,$,4.2,4.2,4,4.1,10982,Moderate,Casual Dining,40.7606269,-73.9912736,https://www.kayak.com/New-York-Restaurants-Obao.100017381.rd.ksp
+LeGrande Lounge,Midtown,Bar / Lounge / Bottle Service,$,2.9,3.5,3,3,78,Moderate,Casual Dining,40.7607185,-73.9847424,https://www.kayak.com/New-York-Restaurants-LeGrande-Lounge.101005532.rd.ksp
+La Pulperia 46th Street,Hell's Kitchen,Latin American,$,4.2,4.2,4.3,4,2205,Moderate,Casual Elegant,40.7609547,-73.9902635,https://www.kayak.com/New-York-Restaurants-La-Pulperia-46th-Street.100035912.rd.ksp
 Fogo de Chao - New York,Midtown,Brazilian,$,4.5,4.6,4.5,4.5,614,Moderate,Casual Elegant,40.7611533,-73.9779162,https://www.kayak.com/New-York-Restaurants-Fogo-de-Chao-New-York.101006952.rd.ksp
 "Hell's Kitchen - 9th Ave, New York City",Hell's Kitchen,Mexican,$,4.5,4.5,4.4,4.3,2363,Moderate,Casual Dining,40.7611957,-73.9908516,https://www.kayak.com/New-York-Restaurants-Hell-s-Kitchen-9th-Ave-New-York-City.100051708.rd.ksp
 Patzeria Family & Friends,Hell's Kitchen,Italian,$,4.4,4.5,4.5,4.1,3545,Moderate,Casual Dining,40.761457,-73.987591,https://www.kayak.com/New-York-Restaurants-Patzeria-Family-Friends.100280586.rd.ksp
 Kings of Kobe,Hell's Kitchen,Burgers,$,4.7,4.9,4.3,4.5,15,Moderate,Casual Elegant,40.7614682,-74.0003405,https://www.kayak.com/New-York-Restaurants-Kings-of-Kobe-The-Burger-Hot-Dog-Monarchy.100041578.rd.ksp
-Lillie's Times Square,Midtown,American,$,4.3,4.0,4.1,4.5,4917,Moderate,Casual Dining,40.7615503,-73.9859763,https://www.kayak.com/New-York-Restaurants-Lillie-s-Times-Square.100020098.rd.ksp
+Lillie's Times Square,Midtown,American,$,4.3,4,4.1,4.5,4917,Moderate,Casual Dining,40.7615503,-73.9859763,https://www.kayak.com/New-York-Restaurants-Lillie-s-Times-Square.100020098.rd.ksp
 Imli urban indian food,Upper East Side,Indian,$,4.4,4.5,4.7,4.5,32,Moderate,Casual Dining,40.7616823,-73.9601642,https://www.kayak.com/New-York-Restaurants-Imli-urban-indian-food.100043698.rd.ksp
 Trump Grill,Midtown,American,$,4.4,4.4,4.5,4.5,229,Low,Casual Dining,40.7623774,-73.9739888,https://www.kayak.com/New-York-Restaurants-Trump-Grill.100038309.rd.ksp
 PizzArte,Midtown,Italian,$,4.7,4.7,4.7,4.3,168,Moderate,Casual Elegant,40.7629224,-73.9774359,https://www.kayak.com/New-York-Restaurants-PizzArte.100018911.rd.ksp
 Haswell Green's,Midtown,American,$,4.6,4.4,4.5,4.7,745,Moderate,Casual Dining,40.762969,-73.98422,https://www.kayak.com/New-York-Restaurants-Haswell-Green-s.100051916.rd.ksp
 Maya - New York,Upper East Side,Mexican,$,4.7,4.7,4.6,4.4,224,Moderate,Casual Elegant,40.7631741,-73.9597236,https://www.kayak.com/New-York-Restaurants-Maya-New-York.100011617.rd.ksp
-UPPER EAST CAFE,Upper East Side,American,$,4.2,4.0,4.0,4.0,496,Moderate,Casual Dining,40.7634155,-73.9654893,https://www.kayak.com/New-York-Restaurants-UPPER-EAST-CAFE.100041551.rd.ksp
+UPPER EAST CAFE,Upper East Side,American,$,4.2,4,4,4,496,Moderate,Casual Dining,40.7634155,-73.9654893,https://www.kayak.com/New-York-Restaurants-UPPER-EAST-CAFE.100041551.rd.ksp
 "Benihana - New York, NY",Midtown,Japanese,$,4.3,4.4,4.1,3.9,455,Moderate,Casual Dining,40.7634299,-73.9766652,https://www.kayak.com/New-York-Restaurants-Benihana-New-York.100021502.rd.ksp
 Russian Vodka Room,Midtown,Russian,$,4.3,4.3,4.1,4.2,29,Moderate,Casual Elegant,40.7634867,-73.9847984,https://www.kayak.com/New-York-Restaurants-Russian-Vodka-Room.100037974.rd.ksp
 Rice N Bean - Hell's Kitchen,Hell's Kitchen,Brazilian,$,4.6,4.6,4.6,4.1,731,Moderate,Casual Dining,40.7635514,-73.992415,https://www.kayak.com/New-York-Restaurants-Rice-N-Bean-Hell-s-Kitchen.100004374.rd.ksp
@@ -261,8 +261,8 @@ B. Cafe,Upper East Side,Belgian,$,4.4,4.5,4.2,4.4,151,Moderate,Casual Dining,40.
 The Smith- Lincoln Square,Upper West Side,American,$,4.5,3.5,4.5,4.1,1882,Moderate,Casual Dining,40.7714976,-73.9819281,https://www.kayak.com/New-York-Restaurants-The-Smith-Lincoln-Square.100023032.rd.ksp
 P.J. Clarke's-Lincoln Square,Upper West Side,American,$,4.3,4.1,4.2,4.1,4555,Moderate,Casual Dining,40.7715266,-73.982747,https://www.kayak.com/New-York-Restaurants-P-J-Clarke-s-Lincoln-Square.100049042.rd.ksp
 Uva,Upper East Side,Italian,$,4.5,4.4,4.2,4.4,10422,Moderate,Casual Dining,40.7721955,-73.9556505,https://www.kayak.com/New-York-Restaurants-Uva.100017736.rd.ksp
-Eats,Upper East Side,American,$,4.0,3.9,4.1,3.7,2867,Moderate,Casual Dining,40.7722402,-73.9607233,https://www.kayak.com/New-York-Restaurants-Eats.100018791.rd.ksp
-Mighty Quinn's Barbeque-Upper East Side,Upper East Side,Barbecue,$,4.0,4.0,3.8,3.4,170,Moderate,Casual Dining,40.7723666,-73.9555388,https://www.kayak.com/New-York-Restaurants-Mighty-Quinn-s-Barbeque-Upper-East-Side.100051528.rd.ksp
+Eats,Upper East Side,American,$,4,3.9,4.1,3.7,2867,Moderate,Casual Dining,40.7722402,-73.9607233,https://www.kayak.com/New-York-Restaurants-Eats.100018791.rd.ksp
+Mighty Quinn's Barbeque-Upper East Side,Upper East Side,Barbecue,$,4,4,3.8,3.4,170,Moderate,Casual Dining,40.7723666,-73.9555388,https://www.kayak.com/New-York-Restaurants-Mighty-Quinn-s-Barbeque-Upper-East-Side.100051528.rd.ksp
 Rosa Mexicano by Lincoln Center,Upper West Side,Mexican,$,4.2,4.3,4.2,4.1,871,Moderate,Casual Dining,40.7724641,-73.9834889,https://www.kayak.com/New-York-Restaurants-Rosa-Mexicano-by-Lincoln-Center.100039740.rd.ksp
 Lincoln Ristorante,Upper West Side,Italian,$,4.5,4.5,4.5,4.6,429,Moderate,Casual Elegant,40.7733701,-73.983728,https://www.kayak.com/New-York-Restaurants-Lincoln-Ristorante.100970248.rd.ksp
 83 1/2,Upper East Side,Italian,$,4.6,4.7,4.5,4.4,109,Moderate,Casual Elegant,40.7743831,-73.9646405,https://www.kayak.com/New-York-Restaurants-83-1-2.100022381.rd.ksp
@@ -270,12 +270,12 @@ San Matteo Pizzeria e Cucina,Upper East Side,Pizzeria,$,4.7,4.7,4.5,4.2,123,Mode
 AOC East,Upper East Side,Bistro,$,4.5,4.4,4.3,4.5,128,Moderate,Casual Dining,40.774691,-73.9507476,https://www.kayak.com/New-York-Restaurants-AOC-East.100036772.rd.ksp
 Flex Mussels - UES,Upper East Side,Seafood,$,4.7,4.7,4.5,4.4,220,Moderate,Casual Dining,40.7753804,-73.9561648,https://www.kayak.com/New-York-Restaurants-Flex-Mussels-82nd-Street.100042246.rd.ksp
 Wa Jeal,Upper East Side,Chinese,$,4.6,4.6,4.6,4.2,29,Moderate,Casual Dining,40.7754335,-73.9532956,https://www.kayak.com/New-York-Restaurants-Wa-Jeal.100023263.rd.ksp
-Bua Thai Ramen & Robata Grill,Upper East Side,Thaï,$,4.4,4.4,4.0,4.1,54,Moderate,Casual Dining,40.7763615,-73.9530785,https://www.kayak.com/New-York-Restaurants-Bua-Thai-Ramen-Robata-Grill.100051257.rd.ksp
-Parm Upper West Side,Upper West Side,Italian,$,4.3,4.2,4.0,3.7,6112,Moderate,Casual Dining,40.7764282,-73.9792883,https://www.kayak.com/New-York-Restaurants-Parm-Upper-West-Side.100042110.rd.ksp
+Bua Thai Ramen & Robata Grill,Upper East Side,Thaï,$,4.4,4.4,4,4.1,54,Moderate,Casual Dining,40.7763615,-73.9530785,https://www.kayak.com/New-York-Restaurants-Bua-Thai-Ramen-Robata-Grill.100051257.rd.ksp
+Parm Upper West Side,Upper West Side,Italian,$,4.3,4.2,4,3.7,6112,Moderate,Casual Dining,40.7764282,-73.9792883,https://www.kayak.com/New-York-Restaurants-Parm-Upper-West-Side.100042110.rd.ksp
 La Pulperia - 2nd Ave,Upper East Side,Seafood,$,4.3,4.2,4.1,4.2,1774,Moderate,Casual Dining,40.7766148,-73.9523321,https://www.kayak.com/New-York-Restaurants-La-Pulperia-2nd-Ave.100044026.rd.ksp
 Thai72,Upper West Side,Thaï,$,4.6,4.7,4.5,4.3,159,Moderate,Casual Dining,40.777616,-73.980042,https://www.kayak.com/New-York-Restaurants-Thai72.100042735.rd.ksp
-Tenzan - 2nd Ave.,Midtown,Japanese,$,4.5,4.3,4.2,4.0,954,Moderate,Casual Dining,40.779641,-73.9502415,https://www.kayak.com/New-York-Restaurants-Tenzan-2nd-Ave-.100008378.rd.ksp
-Piccolo Cafe - Amsterdam Ave,Upper West Side,Italian,$,4.2,4.3,4.0,4.1,620,Moderate,Casual Dining,40.780121,-73.9803132,https://www.kayak.com/New-York-Restaurants-Piccolo-Cafe-Amsterdam-Ave.100026279.rd.ksp
+Tenzan - 2nd Ave.,Midtown,Japanese,$,4.5,4.3,4.2,4,954,Moderate,Casual Dining,40.779641,-73.9502415,https://www.kayak.com/New-York-Restaurants-Tenzan-2nd-Ave-.100008378.rd.ksp
+Piccolo Cafe - Amsterdam Ave,Upper West Side,Italian,$,4.2,4.3,4,4.1,620,Moderate,Casual Dining,40.780121,-73.9803132,https://www.kayak.com/New-York-Restaurants-Piccolo-Cafe-Amsterdam-Ave.100026279.rd.ksp
 Bocado Cafe,Upper East Side,American,$,4.4,4.3,4.4,4.2,198,Moderate,Casual Dining,40.7802464,-73.9548496,https://www.kayak.com/New-York-Restaurants-Bocado-Cafe.100008200.rd.ksp
 Siena Cafe,Upper East Side,Italian,$,4.4,4.4,4.3,4.2,131,Moderate,Casual Elegant,40.7806652,-73.9528593,https://www.kayak.com/New-York-Restaurants-Siena-Cafe.100042815.rd.ksp
 Playa Betty's,Upper West Side,Mexican,$,4.3,4.2,4.3,4.1,294,Moderate,Casual Dining,40.7807796,-73.9803521,https://www.kayak.com/New-York-Restaurants-Playa-Betty-s.100036438.rd.ksp
@@ -283,47 +283,47 @@ The Milton,Upper East Side,American,$,4.4,4.3,4.1,4.3,1301,Moderate,Casual Elega
 Serafina 105,Upper West Side,Italian,$,4.4,4.3,4.4,4.3,74,Moderate,Casual Dining,40.7822435,-73.9805805,https://www.kayak.com/New-York-Restaurants-Serafina-105.100981256.rd.ksp
 Peri Ela,Upper East Side,Turkish,$,4.2,4.2,4.2,4.1,1226,Moderate,Casual Elegant,40.782268,-73.953352,https://www.kayak.com/New-York-Restaurants-Peri-Ela.100009744.rd.ksp
 Swagat,Upper West Side,Indian,$,4.2,4.4,4.2,3.7,1050,Moderate,Fine Dining,40.7835276,-73.97782,https://www.kayak.com/New-York-Restaurants-Swagat.100038269.rd.ksp
-Bettola NYC,Upper West Side,European,$,4.1,4.1,4.1,4.0,1990,Moderate,Casual Dining,40.7836802,-73.9781663,https://www.kayak.com/New-York-Restaurants-Bettola.100018295.rd.ksp
-Gazala’s,Upper West Side,Middle Eastern,$,4.6,4.6,4.4,4.0,54,Moderate,Casual Dining,40.784567,-73.977056,https://www.kayak.com/New-York-Restaurants-Gazalas.100052510.rd.ksp
+Bettola NYC,Upper West Side,European,$,4.1,4.1,4.1,4,1990,Moderate,Casual Dining,40.7836802,-73.9781663,https://www.kayak.com/New-York-Restaurants-Bettola.100018295.rd.ksp
+Gazala’s,Upper West Side,Middle Eastern,$,4.6,4.6,4.4,4,54,Moderate,Casual Dining,40.784567,-73.977056,https://www.kayak.com/New-York-Restaurants-Gazalas.100052510.rd.ksp
 Ashoka - Upper West Side,Upper West Side,Indian,$,4.4,4.5,4.3,4.1,385,Moderate,Casual Dining,40.7847644,-73.9730625,https://www.kayak.com/New-York-Restaurants-Ashoka-Upper-West-Side.100039080.rd.ksp
 Blossom on Columbus,Upper West Side,Vegan,$,4.5,4.5,4.4,4.4,3780,Low,Casual Elegant,40.7853916,-73.9727142,https://www.kayak.com/New-York-Restaurants-Blossom-on-Columbus.100007848.rd.ksp
 Hi-Life Restaurant - Upper West Side,Upper West Side,American,$,4.7,4.6,4.7,4.4,141,Moderate,Casual Dining,40.7855601,-73.9763113,https://www.kayak.com/New-York-Restaurants-Hi-Life-Restaurant-Upper-West-Side.100017531.rd.ksp
-Good Enough to Eat,Upper West Side,Comfort food,$,4.0,3.8,3.9,3.7,642,Moderate,Casual Dining,40.7859964,-73.9727711,https://www.kayak.com/New-York-Restaurants-Good-Enough-to-Eat.100002041.rd.ksp
-Alachi Masala,Upper West Side,Indian,$,4.0,4.1,4.0,3.6,242,Low,Casual Dining,40.7862007,-73.9764842,https://www.kayak.com/New-York-Restaurants-Alachi-Masala.100020753.rd.ksp
-Spring Natural Kitchen - UWS,Upper West Side,American,$,4.4,4.2,4.0,4.0,2450,Moderate,Casual Dining,40.7870106,-73.9753676,https://www.kayak.com/New-York-Restaurants-Spring-Natural-Kitchen-UWS.100042196.rd.ksp
+Good Enough to Eat,Upper West Side,Comfort food,$,4,3.8,3.9,3.7,642,Moderate,Casual Dining,40.7859964,-73.9727711,https://www.kayak.com/New-York-Restaurants-Good-Enough-to-Eat.100002041.rd.ksp
+Alachi Masala,Upper West Side,Indian,$,4,4.1,4,3.6,242,Low,Casual Dining,40.7862007,-73.9764842,https://www.kayak.com/New-York-Restaurants-Alachi-Masala.100020753.rd.ksp
+Spring Natural Kitchen - UWS,Upper West Side,American,$,4.4,4.2,4,4,2450,Moderate,Casual Dining,40.7870106,-73.9753676,https://www.kayak.com/New-York-Restaurants-Spring-Natural-Kitchen-UWS.100042196.rd.ksp
 French Roast Uptown,Upper West Side,French,$,4.5,4.5,4.5,4.4,240,Moderate,Casual Dining,40.7876417,-73.9765902,https://www.kayak.com/New-York-Restaurants-French-Roast-Uptown.100026970.rd.ksp
 Trattoria iL Gusto Wine Bar,Upper West Side,Italian,$,4.7,4.5,4.6,4.5,54,Moderate,Casual Dining,40.7892987,-73.9697758,https://www.kayak.com/New-York-Restaurants-Trattoria-iL-Gusto-Wine-Bar.100039516.rd.ksp
-The Lexington Social,East Harlem,International,$,4.3,4.2,4.2,4.0,110,Moderate,Casual Dining,40.7906645,-73.9476244,https://www.kayak.com/New-York-Restaurants-The-Lexington-Social.100018250.rd.ksp
+The Lexington Social,East Harlem,International,$,4.3,4.2,4.2,4,110,Moderate,Casual Dining,40.7906645,-73.9476244,https://www.kayak.com/New-York-Restaurants-The-Lexington-Social.100018250.rd.ksp
 Nocciola Ristorante,East Harlem,Italian,$,4.4,4.4,4.5,4.2,376,Low,Casual Elegant,40.7975043,-73.9383816,https://www.kayak.com/New-York-Restaurants-Nocciola-Ristorante.100028686.rd.ksp
-Maxwell's Central Park,East Harlem,American,$,4.2,3.8,3.9,4.0,13,Moderate,Casual Dining,40.7977009,-73.9483825,https://www.kayak.com/New-York-Restaurants-Maxwell-s-Central-Park.100049326.rd.ksp
+Maxwell's Central Park,East Harlem,American,$,4.2,3.8,3.9,4,13,Moderate,Casual Dining,40.7977009,-73.9483825,https://www.kayak.com/New-York-Restaurants-Maxwell-s-Central-Park.100049326.rd.ksp
 Arco Cafe,Upper West Side,Regional Italian (Sardinia),$,4.7,4.8,4.7,4.5,108,Moderate,Casual Dining,40.7987331,-73.9672189,https://www.kayak.com/New-York-Restaurants-Arco-Cafe.100005549.rd.ksp
 The Ellington,Upper West Side,American,$,4.3,4.1,4.2,4.2,1337,Moderate,Casual Dining,40.8006763,-73.9658056,https://www.kayak.com/New-York-Restaurants-The-Ellington.100002075.rd.ksp
 Amity Hall Uptown,Upper West Side,Bar / Lounge / Bottle Service,$,4.5,4.3,4.4,4.3,360,Moderate,Casual Dining,40.8022491,-73.9646077,https://www.kayak.com/New-York-Restaurants-Amity-Hall-Uptown.100027218.rd.ksp
 Barawine,Harlem,French,$,4.1,4.2,3.8,4.2,44,Moderate,Casual Elegant,40.80454,-73.9474459,https://www.kayak.com/New-York-Restaurants-Barawine.100003044.rd.ksp
 Lido,Harlem,Italian,$,4.7,4.6,4.7,4.6,220,Moderate,Casual Elegant,40.8048815,-73.95467744,https://www.kayak.com/New-York-Restaurants-Lido.100018258.rd.ksp
-Shaking Crab - Upper West Side,Morningside Heights,Cajun,$,4.3,4.4,4.2,4.0,12,Moderate,Casual Dining,40.8052227,-73.9663923,https://www.kayak.com/New-York-Restaurants-Shaking-Crab-Upper-West-Side.100043597.rd.ksp
-Chocolat Restaurant & Bar,Harlem,Southern,$,4.0,4.1,4.0,4.1,2769,Moderate,Casual Elegant,40.806985,-73.9537487,https://www.kayak.com/New-York-Restaurants-Chocolat-Restaurant-Bar.100052733.rd.ksp
+Shaking Crab - Upper West Side,Morningside Heights,Cajun,$,4.3,4.4,4.2,4,12,Moderate,Casual Dining,40.8052227,-73.9663923,https://www.kayak.com/New-York-Restaurants-Shaking-Crab-Upper-West-Side.100043597.rd.ksp
+Chocolat Restaurant & Bar,Harlem,Southern,$,4,4.1,4,4.1,2769,Moderate,Casual Elegant,40.806985,-73.9537487,https://www.kayak.com/New-York-Restaurants-Chocolat-Restaurant-Bar.100052733.rd.ksp
 Red Rooster Harlem,Harlem,Unspecified,$,4.6,4.5,4.7,4.6,742,Moderate,Casual Elegant,40.80796595,-73.94491055,https://www.kayak.com/New-York-Restaurants-Red-Rooster-Harlem.100015937.rd.ksp
 RDV Harlem,Harlem,French,$,4.6,4.6,4.6,4.5,214,Moderate,Elegant Dining,40.8115504,-73.9464769,https://www.kayak.com/New-York-Restaurants-RDV-Harlem.100034038.rd.ksp
 Maison Harlem,Harlem,French,$,4.6,4.5,4.4,4.6,130,Moderate,Casual Dining,40.8121987,-73.9516713,https://www.kayak.com/New-York-Restaurants-Maison-Harlem.100000958.rd.ksp
 Bettolona,Morningside Heights,Italian,$,4.3,4.2,4.3,4.1,486,Moderate,Casual Dining,40.8141174,-73.9597655,https://www.kayak.com/New-York-Restaurants-Bettolona.100018300.rd.ksp
 Ponty Bistro - Harlem,Harlem,French,$,4.4,4.4,4.2,4.3,1213,Moderate,Casual Dining,40.8176235,-73.9416508,https://www.kayak.com/New-York-Restaurants-Ponty-Bistro-Harlem.100006655.rd.ksp
-Renaissance Harlem,Harlem,American,$,4.2,4.1,4.0,4.0,58,Moderate,Casual Dining,40.82131365,-73.94172386,https://www.kayak.com/New-York-Restaurants-Renaissance-Harlem.101008856.rd.ksp
+Renaissance Harlem,Harlem,American,$,4.2,4.1,4,4,58,Moderate,Casual Dining,40.82131365,-73.94172386,https://www.kayak.com/New-York-Restaurants-Renaissance-Harlem.101008856.rd.ksp
 Fumo Harlem,Harlem,Italian,$,4.7,4.7,4.5,4.6,1440,Moderate,Casual Dining,40.8214251,-73.9506357,https://www.kayak.com/New-York-Restaurants-Fumo-Harlem.100027789.rd.ksp
-The Porterhouse Brewing Company Bar + The Lovelace Cocktail & Gin Bar,Financial District,American,$$,4.4,4.2,4.0,4.5,328,Moderate,Casual Dining,40.7035474,-74.0108436,https://www.kayak.com/New-York-Restaurants-The-Lovelace-Cocktail-Gin-Bar.100047345.rd.ksp
+The Porterhouse Brewing Company Bar + The Lovelace Cocktail & Gin Bar,Financial District,American,$$,4.4,4.2,4,4.5,328,Moderate,Casual Dining,40.7035474,-74.0108436,https://www.kayak.com/New-York-Restaurants-The-Lovelace-Cocktail-Gin-Bar.100047345.rd.ksp
 Joseph's Restaurant,Financial District,Italian,$$,4.5,4.4,4.6,4.3,42,Moderate,Fine Dining,40.7048541,-74.0095999,https://www.kayak.com/New-York-Restaurants-Joseph-s-Restaurant.100021565.rd.ksp
-2 West at The Wagner Hotel,Battery Park City,Contemporary American,$$,4.0,4.0,4.1,3.9,1245,Low,Casual Dining,40.7055671,-74.0177767,https://www.kayak.com/New-York-Restaurants-2-West-at-The-Wagner-Hotel.100051562.rd.ksp
+2 West at The Wagner Hotel,Battery Park City,Contemporary American,$$,4,4,4.1,3.9,1245,Low,Casual Dining,40.7055671,-74.0177767,https://www.kayak.com/New-York-Restaurants-2-West-at-The-Wagner-Hotel.100051562.rd.ksp
 Inatteso Pizza Bar,Battery Park City,Italian,$$,4.6,4.7,4.5,4.5,426,Low,Casual Dining,40.7060267,-74.0170497,https://www.kayak.com/New-York-Restaurants-Inatteso-Pizza-Bar.100042159.rd.ksp
 Cipriani Club 55 Restaurant,Financial District,Italian,$$,4.3,4.2,4.3,4.3,3771,Moderate,Casual Elegant,40.7061756,-74.0093957,https://www.kayak.com/New-York-Restaurants-Cipriani-Club-55-Restaurant.100964838.rd.ksp
 Giardino D'Oro,Financial District,Italian,$$,4.7,4.6,4.7,4.5,39,Moderate,Fine Dining,40.7074557,-74.0072562,https://www.kayak.com/New-York-Restaurants-Giardino-D-Oro.100022809.rd.ksp
 Da Claudio Ristorante,Financial District,Italian,$$,4.6,4.5,4.6,4.4,97,Moderate,Casual Elegant,40.7108219,-74.0076301,https://www.kayak.com/New-York-Restaurants-Da-Claudio-Ristorante.100007819.rd.ksp
-Merchants River House,Battery Park City,American,$$,4.2,4.0,4.0,4.3,4915,Moderate,Casual Dining,40.7113232,-74.0178841,https://www.kayak.com/New-York-Restaurants-Merchants-River-House.100016274.rd.ksp
+Merchants River House,Battery Park City,American,$$,4.2,4,4,4.3,4915,Moderate,Casual Dining,40.7113232,-74.0178841,https://www.kayak.com/New-York-Restaurants-Merchants-River-House.100016274.rd.ksp
 Trading Post NYC,Financial District,American,$$,4.4,4.3,4.3,4.3,2129,Moderate,Casual Elegant,40.7127753,-74.0059728,https://www.kayak.com/New-York-Restaurants-Trading-Post-NYC.100022985.rd.ksp
 Plant Food + Wine New York,East Village,Vegan,$$,4.5,4.4,4.6,4.5,339,Moderate,Casual Dining,40.7127753,-74.0059728,https://www.kayak.com/New-York-Restaurants-Plant-Food-Wine-New-York.100050506.rd.ksp
 ONE Dine at One World Observatory,Financial District,American,$$,4.5,4.4,4.5,4.6,405,Moderate,Casual Dining,40.7130062,-74.013173,https://www.kayak.com/New-York-Restaurants-ONE-Dine-at-One-World-Observatory.100968861.rd.ksp
 PJ Clarkes on the Hudson,Battery Park City,American,$$,4.4,4.3,4.3,4.5,2450,Moderate,Casual Dining,40.7137112,-74.0162387,https://www.kayak.com/New-York-Restaurants-PJ-Clarkes-on-the-Hudson.101017008.rd.ksp
 Del Frisco's Grille - NYC,Midtown,Steakhouse,$$,4.5,4.5,4.4,4.3,481,Moderate,Casual Dining,40.714026,-74.0150366,https://www.kayak.com/New-York-Restaurants-Del-Frisco-s-Grille-NYC.100019020.rd.ksp
-Benares - Tribeca,Tribeca,Indian,$$,4.3,4.3,4.1,4.0,1310,Moderate,Casual Dining,40.7141066,-74.0092265,https://www.kayak.com/New-York-Restaurants-Benares-Tribeca.100022984.rd.ksp
+Benares - Tribeca,Tribeca,Indian,$$,4.3,4.3,4.1,4,1310,Moderate,Casual Dining,40.7141066,-74.0092265,https://www.kayak.com/New-York-Restaurants-Benares-Tribeca.100022984.rd.ksp
 Gran Morsi,Tribeca,Italian,$$,4.7,4.7,4.6,4.6,88,Moderate,Casual Elegant,40.7143289,-74.0077874,https://www.kayak.com/New-York-Restaurants-Gran-Morsi.100006980.rd.ksp
 Warren 77,Tribeca,American,$$,4.5,4.3,4.1,4.4,55,Moderate,Casual Dining,40.7151232,-74.0103245,https://www.kayak.com/New-York-Restaurants-Warren-77.100018346.rd.ksp
 Chambers,Tribeca,Market Cuisine,$$,4.9,4.9,4.9,4.8,256,Moderate,Casual Elegant,40.715575,-74.008857,https://www.kayak.com/New-York-Restaurants-Racines-NY.100005375.rd.ksp
@@ -378,7 +378,7 @@ Lafayette,NoHo,French,$$,4.5,4.3,4.3,4.6,186,Moderate,Casual Elegant,40.7275742,
 Lupa,Manhattan,Italian,$$,4.4,4.5,4.3,4.2,24595,Moderate,Casual Dining,40.7276391,-74.000211,https://www.kayak.com/New-York-Restaurants-Lupa.100002557.rd.ksp
 Song' E Napule - 146 W Houston St.,Manhattan,Italian,$$,4.8,4.9,4.6,4.4,238,Moderate,Casual Dining,40.7281274,-74.001839,https://www.kayak.com/New-York-Restaurants-Song-E-Napule.100034690.rd.ksp
 Villa Mosconi,Manhattan,Italian,$$,4.6,4.6,4.7,4.5,60,Moderate,Fine Dining,40.7285324,-74.0018748,https://www.kayak.com/New-York-Restaurants-Villa-Mosconi.100984119.rd.ksp
-Toloache Thompson St.,Manhattan,Mexican,$$,4.4,4.4,4.2,4.0,3335,Moderate,Casual Dining,40.728719,-73.999578,https://www.kayak.com/New-York-Restaurants-Toloache-Thompson-St-.100003052.rd.ksp
+Toloache Thompson St.,Manhattan,Mexican,$$,4.4,4.4,4.2,4,3335,Moderate,Casual Dining,40.728719,-73.999578,https://www.kayak.com/New-York-Restaurants-Toloache-Thompson-St-.100003052.rd.ksp
 Old Tbilisi,Manhattan,Georgian,$$,4.6,4.5,4.4,4.5,50,Moderate,Casual Dining,40.7288339,-74.0007577,https://www.kayak.com/New-York-Restaurants-Old-Tbilisi.100080035.rd.ksp
 Tarallucci e Vino - East Village,East Village,Italian,$$,4.5,4.4,4.4,4.3,554,Moderate,Casual Elegant,40.7289402,-73.9845472,https://www.kayak.com/New-York-Restaurants-Tarallucci-e-Vino-East-Village.100051729.rd.ksp
 The Mermaid Oyster Bar,Manhattan,Seafood,$$,4.7,4.6,4.6,4.6,351,Moderate,Casual Dining,40.7290243,-74.0014899,https://www.kayak.com/New-York-Restaurants-The-Mermaid-Oyster-Bar.100015202.rd.ksp
@@ -445,21 +445,21 @@ Blossom- Chelsea,Chelsea,Vegetarian / Vegan,$$,4.8,4.7,4.8,4.6,65,Moderate,Casua
 Fonda Chelsea,Chelsea,Mexican,$$,4.5,4.6,4.4,4.4,174,Moderate,Casual Dining,40.7455495,-74.0023544,https://www.kayak.com/New-York-Restaurants-Fonda-Chelsea.100004757.rd.ksp
 aRoqa,Chelsea,Indian,$$,4.5,4.5,4.6,4.4,113,Moderate,Casual Dining,40.7460795,-74.0013545,https://www.kayak.com/New-York-Restaurants-aRoqa.100038847.rd.ksp
 Tía Pol,Chelsea,Tapas / Small Plates,$$,4.6,4.6,4.5,4.2,4477,Moderate,Casual Dining,40.7473,-74.0047278,https://www.kayak.com/New-York-Restaurants-Tia-Pol.100022547.rd.ksp
-Txikito,Chelsea,Basque,$$,4.4,4.5,4.4,4.0,3010,Moderate,Casual Dining,40.7473898,-74.0004115,https://www.kayak.com/New-York-Restaurants-Txikito.101029300.rd.ksp
-Hiroshi Sushi,Midtown,Japanese,$$,4.1,4.0,4.1,3.5,285,Low,Casual Dining,40.748367,-73.9758786,https://www.kayak.com/New-York-Restaurants-Hiroshi-Sushi.100025361.rd.ksp
+Txikito,Chelsea,Basque,$$,4.4,4.5,4.4,4,3010,Moderate,Casual Dining,40.7473898,-74.0004115,https://www.kayak.com/New-York-Restaurants-Txikito.101029300.rd.ksp
+Hiroshi Sushi,Midtown,Japanese,$$,4.1,4,4.1,3.5,285,Low,Casual Dining,40.748367,-73.9758786,https://www.kayak.com/New-York-Restaurants-Hiroshi-Sushi.100025361.rd.ksp
 Biricchino,Chelsea,Italian,$$,4.6,4.7,4.6,4.6,102,Moderate,Casual Elegant,40.7488549,-73.9954826,https://www.kayak.com/New-York-Restaurants-Biricchino.100032465.rd.ksp
 Rossini's Restaurant,Midtown,Italian,$$,4.7,4.7,4.8,4.7,158,Moderate,Casual Elegant,40.7492299,-73.9789166,https://www.kayak.com/New-York-Restaurants-Rossini-s-Restaurant.100018281.rd.ksp
 Wokuni,Midtown,Japanese,$$,4.7,4.7,4.6,4.6,362,Moderate,Casual Dining,40.7492448,-73.9773995,https://www.kayak.com/New-York-Restaurants-Wokuni.100041285.rd.ksp
-Pennsylvania 6 - NYC,Chelsea,American,$$,4.2,4.1,4.1,4.0,2738,Moderate,Casual Elegant,40.7497169,-73.9929921,https://www.kayak.com/New-York-Restaurants-Pennsylvania-6-NYC.100022161.rd.ksp
-Hakata Tonton,West Village,Japanese,$$,4.5,4.5,4.3,4.0,3872,Moderate,Casual Dining,40.7499701,-73.9857172,https://www.kayak.com/New-York-Restaurants-Hakata-Tonton.100030193.rd.ksp
+Pennsylvania 6 - NYC,Chelsea,American,$$,4.2,4.1,4.1,4,2738,Moderate,Casual Elegant,40.7497169,-73.9929921,https://www.kayak.com/New-York-Restaurants-Pennsylvania-6-NYC.100022161.rd.ksp
+Hakata Tonton,West Village,Japanese,$$,4.5,4.5,4.3,4,3872,Moderate,Casual Dining,40.7499701,-73.9857172,https://www.kayak.com/New-York-Restaurants-Hakata-Tonton.100030193.rd.ksp
 Porteno Restaurant,Chelsea,Argentinean,$$,4.7,4.7,4.7,4.6,58,Moderate,Casual Elegant,40.7504599,-74.0024185,https://www.kayak.com/New-York-Restaurants-Porteno-Restaurant.101017813.rd.ksp
 Gallow Green,Chelsea,Continental,$$,4.3,4.1,4.3,4.7,183,Moderate,Casual Dining,40.7507722,-74.0040792,https://www.kayak.com/New-York-Restaurants-Gallow-Green.100000254.rd.ksp
 Nick & Stef’s Steakhouse - New York,Chelsea,Steakhouse,$$,4.6,4.6,4.7,4.4,248,Moderate,Casual Elegant,40.7510502,-73.9932346,https://www.kayak.com/New-York-Restaurants-Nick-Stefs-Steakhouse-New-York.101007494.rd.ksp
 Death Ave.,Chelsea,American,$$,4.5,4.6,4.7,4.6,35,Moderate,Casual Elegant,40.7510637,-74.0019532,https://www.kayak.com/New-York-Restaurants-Death-Ave-.101006976.rd.ksp
 Alcala,Midtown,Spanish,$$,4.2,4.4,4.1,4.1,38,Moderate,Casual Elegant,40.7512208,-73.9717524,https://www.kayak.com/New-York-Restaurants-Alcala.100037027.rd.ksp
-The Australian,Midtown,Australian,$$,4.1,3.9,4.2,4.0,456,Moderate,Casual Dining,40.7512973,-73.9838618,https://www.kayak.com/New-York-Restaurants-The-Australian.100000742.rd.ksp
+The Australian,Midtown,Australian,$$,4.1,3.9,4.2,4,456,Moderate,Casual Dining,40.7512973,-73.9838618,https://www.kayak.com/New-York-Restaurants-The-Australian.100000742.rd.ksp
 Grand Central Oyster Bar,Midtown,Seafood,$$,4.2,4.2,3.9,4.2,622,Moderate,Casual Dining,40.7524823,-73.9774311,https://www.kayak.com/New-York-Restaurants-Grand-Central-Oyster-Bar.100010391.rd.ksp
-Magic Hour Rooftop Bar & Lounge,Midtown,American,$$,3.8,3.5,3.7,4.0,728,Moderate,Casual Dining,40.7524923,-73.9893157,https://www.kayak.com/New-York-Restaurants-Magic-Hour-Rooftop-Bar-Lounge.100052467.rd.ksp
+Magic Hour Rooftop Bar & Lounge,Midtown,American,$$,3.8,3.5,3.7,4,728,Moderate,Casual Dining,40.7524923,-73.9893157,https://www.kayak.com/New-York-Restaurants-Magic-Hour-Rooftop-Bar-Lounge.100052467.rd.ksp
 Celon Bar and Lounge,Midtown,Bar / Lounge / Bottle Service,$$,4.4,4.4,4.4,4.5,27,Moderate,Casual Elegant,40.7528062,-73.9837798,https://www.kayak.com/New-York-Restaurants-Celon-Bar-and-Lounge.101008816.rd.ksp
 Koi - New York,Midtown,Japanese,$$,4.4,4.4,4.3,4.2,23367,Moderate,Casual Elegant,40.7528962,-73.9837762,https://www.kayak.com/New-York-Restaurants-Koi-New-York.100014532.rd.ksp
 Cipriani - Dolci,Midtown,Italian,$$,4.6,4.6,4.6,4.6,241,Moderate,Casual Elegant,40.7528997,-73.9776113,https://www.kayak.com/New-York-Restaurants-Cipriani-Dolci.100964836.rd.ksp
@@ -467,17 +467,17 @@ Aretsky's Patroon,Midtown,American,$$,4.9,4.9,4.9,4.8,176,Moderate,Casual Elegan
 Gogi 37,Midtown,Korean,$$,4.3,4.3,4.1,4.2,737,Moderate,Casual Dining,40.7536266,-73.9913213,https://www.kayak.com/New-York-Restaurants-Gogi-37.100036059.rd.ksp
 L'Adresse - Bryant Park,Midtown,Contemporary American,$$,4.6,4.5,4.5,4.5,477,Moderate,Casual Elegant,40.7539141,-73.9853115,https://www.kayak.com/New-York-Restaurants-L-adresse.100035089.rd.ksp
 Ammos Estiatorio,Midtown,Seafood,$$,4.3,4.1,4.2,4.1,177,Moderate,Casual Elegant,40.7542362,-73.977239,https://www.kayak.com/New-York-Restaurants-Ammos-Estiatorio.100017386.rd.ksp
-STK - NYC - Midtown,Midtown,Steakhouse,$$,4.0,4.1,4.1,4.2,1197,Moderate,Casual Elegant,40.7548374,-73.9827653,https://www.kayak.com/New-York-Restaurants-STK-NYC-Midtown.100018601.rd.ksp
+STK - NYC - Midtown,Midtown,Steakhouse,$$,4,4.1,4.1,4.2,1197,Moderate,Casual Elegant,40.7548374,-73.9827653,https://www.kayak.com/New-York-Restaurants-STK-NYC-Midtown.100018601.rd.ksp
 Valbella Midtown,Midtown,Italian,$$,4.5,4.5,4.6,4.4,2937,Moderate,Casual Elegant,40.7549683,-73.9852746,https://www.kayak.com/New-York-Restaurants-Valbella-Midtown.100019432.rd.ksp
 Casa Nonna - Midtown,Hell's Kitchen,Italian,$$,4.4,4.3,4.3,4.3,8513,Moderate,Casual Dining,40.7549995,-73.9927853,https://www.kayak.com/New-York-Restaurants-Casa-Nonna-Midtown.100017974.rd.ksp
 Sen Sakana,Midtown,Sushi,$$,4.5,4.5,4.4,4.4,3596,Moderate,Casual Elegant,40.7550329,-73.981663,https://www.kayak.com/New-York-Restaurants-Sen-Sakana.100039226.rd.ksp
 Wollensky’s Grill,Midtown,American,$$,4.6,4.6,4.5,4.5,236,Moderate,Casual Dining,40.755156,-73.9707177,https://www.kayak.com/New-York-Restaurants-Wollenskys-Grill.100977836.rd.ksp
-Shochu and Tapas AYA,Midtown,Tapas / Small Plates,$$,4.3,4.2,4.2,4.0,87,Moderate,Casual Dining,40.7552226,-73.9690411,https://www.kayak.com/New-York-Restaurants-Shochu-and-Tapas-AYA.100042667.rd.ksp
+Shochu and Tapas AYA,Midtown,Tapas / Small Plates,$$,4.3,4.2,4.2,4,87,Moderate,Casual Dining,40.7552226,-73.9690411,https://www.kayak.com/New-York-Restaurants-Shochu-and-Tapas-AYA.100042667.rd.ksp
 Socarrat Paella Bar - Midtown East,Midtown,Spanish,$$,4.6,4.5,4.7,4.5,155,Moderate,Casual Elegant,40.75529,-73.96846,https://www.kayak.com/New-York-Restaurants-Socarrat-Paella-Bar-Midtown-East.100039119.rd.ksp
-Charlie Palmer at The Knick,Midtown,Contemporary American,$$,4.1,4.0,4.0,4.2,1975,Low,Casual Elegant,40.75536,-73.9860562,https://www.kayak.com/New-York-Restaurants-Charlie-Palmer-at-The-Knick.100007136.rd.ksp
+Charlie Palmer at The Knick,Midtown,Contemporary American,$$,4.1,4,4,4.2,1975,Low,Casual Elegant,40.75536,-73.9860562,https://www.kayak.com/New-York-Restaurants-Charlie-Palmer-at-The-Knick.100007136.rd.ksp
 Boqueria West 40th Street,Midtown,Tapas / Small Plates,$$,4.5,4.5,4.4,4.4,86,Moderate,Casual Dining,40.7554316,-73.9900633,https://www.kayak.com/New-York-Restaurants-Boqueria-West-40th-Street.100050416.rd.ksp
 Pampano New York,Midtown,Mexican,$$,4.5,4.4,4.4,4.3,438,Moderate,Casual Elegant,40.7555556,-73.9705556,https://www.kayak.com/New-York-Restaurants-Pampano-New-York.100011346.rd.ksp
-Forty Four,Midtown,American,$$,4.2,4.3,4.0,4.0,40,Moderate,Casual Elegant,40.7555936,-73.982172,https://www.kayak.com/New-York-Restaurants-Forty-Four.100009246.rd.ksp
+Forty Four,Midtown,American,$$,4.2,4.3,4,4,40,Moderate,Casual Elegant,40.7555936,-73.982172,https://www.kayak.com/New-York-Restaurants-Forty-Four.100009246.rd.ksp
 Toscana 49,Midtown,Italian,$$,4.7,4.7,4.7,4.6,195,Moderate,Casual Dining,40.7557485,-73.9721554,https://www.kayak.com/New-York-Restaurants-Toscana-49.101025579.rd.ksp
 Beer Authority,Hell's Kitchen,Gastro Pub,$$,4.3,4.3,4.3,4.3,24,Moderate,Casual Dining,40.7559369,-73.9911531,https://www.kayak.com/New-York-Restaurants-Beer-Authority.100023265.rd.ksp
 BXL Cafe,Midtown,Belgian,$$,4.5,4.5,4.5,4.2,112,Moderate,Casual Dining,40.7561736,-73.9846328,https://www.kayak.com/New-York-Restaurants-BXL-Cafe.100004098.rd.ksp
@@ -485,13 +485,13 @@ iL Punto,Hell's Kitchen,Italian,$$,4.8,4.8,4.8,4.6,101,Moderate,Casual Elegant,4
 212 Steakhouse,Midtown,Steakhouse,$$,4.4,4.4,4.6,4.4,106,Moderate,Fine Dining,40.7563374,-73.9664884,https://www.kayak.com/New-York-Restaurants-212-Steakhouse.100006574.rd.ksp
 Tony's Di Napoli - Midtown,Midtown,Italian,$$,4.7,4.7,4.8,4.6,1603,Moderate,Casual Dining,40.7564842,-73.9853808,https://www.kayak.com/New-York-Restaurants-Tony-s-Di-Napoli-Midtown.100013943.rd.ksp
 Emporium Brasil Restaurant & Bar,Midtown,Brazilian,$$,4.8,4.8,4.9,4.6,37,Moderate,Casual Dining,40.7565176,-73.979897,https://www.kayak.com/New-York-Restaurants-Emporium-Brasil-Restaurant-Bar.100042921.rd.ksp
-The National Bar & Dining Rooms,Midtown,Contemporary American,$$,4.1,4.0,3.7,3.9,12914,Moderate,Casual Dining,40.7566054,-73.972001,https://www.kayak.com/New-York-Restaurants-The-National-Bar-Dining-Rooms.100016797.rd.ksp
+The National Bar & Dining Rooms,Midtown,Contemporary American,$$,4.1,4,3.7,3.9,12914,Moderate,Casual Dining,40.7566054,-73.972001,https://www.kayak.com/New-York-Restaurants-The-National-Bar-Dining-Rooms.100016797.rd.ksp
 Osteria al Doge,Midtown,Italian,$$,4.6,4.6,4.7,4.5,560,Moderate,Casual Dining,40.7566174,-73.9849106,https://www.kayak.com/New-York-Restaurants-Osteria-al-Doge.100015428.rd.ksp
-Cafe Un Deux Trois,Midtown,French,$$,4.1,4.0,4.1,4.0,13214,Moderate,Casual Dining,40.7566505,-73.9841404,https://www.kayak.com/New-York-Restaurants-Cafe-Un-Deux-Trois.100021252.rd.ksp
+Cafe Un Deux Trois,Midtown,French,$$,4.1,4,4.1,4,13214,Moderate,Casual Dining,40.7566505,-73.9841404,https://www.kayak.com/New-York-Restaurants-Cafe-Un-Deux-Trois.100021252.rd.ksp
 "RA Sushi Bar Restaurant – Times Square, NY",Midtown,Japanese,$$,4.3,4.3,4.2,4.1,283,Moderate,Casual Elegant,40.757251,-73.9874539,https://www.kayak.com/New-York-Restaurants-RA-Sushi-Bar-Restaurant-Times-Square-NY.100983164.rd.ksp
 Hudson Malone,Midtown,Gastro Pub,$$,4.5,4.3,4.5,4.3,1014,Moderate,Casual Elegant,40.7572639,-73.9686379,https://www.kayak.com/New-York-Restaurants-Hudson-Malone.100031531.rd.ksp
 Sardi's,Midtown,Continental,$$,4.5,4.3,4.6,4.6,494,Moderate,Casual Elegant,40.7578088,-73.9876432,https://www.kayak.com/New-York-Restaurants-Sardi-s.100980148.rd.ksp
-The Stinger Cocktail Bar and Kitchen,Hell's Kitchen,American,$$,4.2,4.0,4.0,4.0,34,Moderate,Casual Dining,40.758802,-73.9896913,https://www.kayak.com/New-York-Restaurants-The-Stinger-Cocktail-Bar-and-Kitchen.101011231.rd.ksp
+The Stinger Cocktail Bar and Kitchen,Hell's Kitchen,American,$$,4.2,4,4,4,34,Moderate,Casual Dining,40.758802,-73.9896913,https://www.kayak.com/New-York-Restaurants-The-Stinger-Cocktail-Bar-and-Kitchen.101011231.rd.ksp
 Fresco by Scotto,Midtown,Italian,$$,4.5,4.5,4.5,4.3,7922,Moderate,Casual Elegant,40.7588164,-73.9745136,https://www.kayak.com/New-York-Restaurants-Fresco-by-Scotto.100001309.rd.ksp
 Bistro Vendome - NYC,Midtown,French,$$,4.7,4.8,4.6,4.5,194,Moderate,Casual Elegant,40.7588838,-73.961895,https://www.kayak.com/New-York-Restaurants-Bistro-Vendome-NYC.100019918.rd.ksp
 SIDECAR at P.J. Clarke's,Midtown,American,$$,4.4,4.2,4.3,4.3,4220,Moderate,Casual Elegant,40.7589726,-73.9681925,https://www.kayak.com/New-York-Restaurants-SIDECAR-at-P-J-Clarke-s.100014260.rd.ksp
@@ -507,7 +507,7 @@ Turkish Cuisine,Hell's Kitchen,Turkish,$$,4.5,4.5,4.5,4.3,47,Moderate,Casual Ele
 Joe Allen,Hell's Kitchen,American,$$,4.7,4.5,4.7,4.7,468,Moderate,Casual Dining,40.7601328,-73.9890604,https://www.kayak.com/New-York-Restaurants-Joe-Allen.101010617.rd.ksp
 Bill's Townhouse,Midtown,American,$$,4.6,4.5,4.5,4.6,3321,Moderate,Casual Elegant,40.7601427,-73.9730667,https://www.kayak.com/New-York-Restaurants-Bill-s-Townhouse.100022257.rd.ksp
 Club A Steakhouse,Midtown,Steakhouse,$$,4.9,4.8,4.9,4.9,543,Moderate,Fine Dining,40.7601469,-73.9655086,https://www.kayak.com/New-York-Restaurants-Club-A-Steakhouse.101010387.rd.ksp
-Cellini,Midtown,Italian,$$,4.7,4.0,4.6,4.5,142,Moderate,Casual Elegant,40.7601524,-73.9726722,https://www.kayak.com/New-York-Restaurants-Cellini.100861174.rd.ksp
+Cellini,Midtown,Italian,$$,4.7,4,4.6,4.5,142,Moderate,Casual Elegant,40.7601524,-73.9726722,https://www.kayak.com/New-York-Restaurants-Cellini.100861174.rd.ksp
 Papillon Bistro and Bar,Midtown,Bistro,$$,4.3,4.2,4.3,4.4,62,Moderate,Casual Dining,40.760342,-73.974326,https://www.kayak.com/New-York-Restaurants-Papillon-Bistro-and-Bar.100970288.rd.ksp
 Becco,Hell's Kitchen,Italian,$$,4.6,4.6,4.6,4.4,1908,Moderate,Casual Dining,40.7605173,-73.9900277,https://www.kayak.com/New-York-Restaurants-Becco.100007324.rd.ksp
 West Side Steakhouse,Hell's Kitchen,Steakhouse,$$,4.5,4.5,4.5,4.3,123,Moderate,Casual Dining,40.7606009,-73.9949869,https://www.kayak.com/New-York-Restaurants-West-Side-Steakhouse.100017485.rd.ksp
@@ -525,7 +525,7 @@ Nare Sushi,Midtown,Japanese,$$,4.3,4.4,4.2,3.7,38,Moderate,Casual Elegant,40.761
 The Polo Bar,Midtown,American,$$,4.8,4.7,4.8,4.9,3848,Moderate,Elegant Dining,40.7615247,-73.9743066,https://www.kayak.com/New-York-Restaurants-The-Polo-Bar.100051697.rd.ksp
 Clement,Midtown,American,$$,4.7,4.5,4.8,4.8,90,Moderate,Casual Elegant,40.7616053,-73.99154329,https://www.kayak.com/New-York-Restaurants-Clement.100002696.rd.ksp
 Amarone Scarlatto,Hell's Kitchen,Italian,$$,4.6,4.6,4.6,4.5,79,Moderate,Casual Dining,40.7617024,-73.9900181,https://www.kayak.com/New-York-Restaurants-Amarone.100004595.rd.ksp
-North River Lobster Company,Hell's Kitchen,Seafood,$$,4.3,4.0,3.9,4.4,92,Moderate,Casual Dining,40.7617789,-74.0027011,https://www.kayak.com/New-York-Restaurants-North-River-Lobster-Company.101003990.rd.ksp
+North River Lobster Company,Hell's Kitchen,Seafood,$$,4.3,4,3.9,4.4,92,Moderate,Casual Dining,40.7617789,-74.0027011,https://www.kayak.com/New-York-Restaurants-North-River-Lobster-Company.101003990.rd.ksp
 Mozzarella & Vino,Midtown,Italian,$$,4.4,4.4,4.4,4.3,3419,Moderate,Casual Dining,40.7619597,-73.9772624,https://www.kayak.com/New-York-Restaurants-Mozzarella-Vino.100004373.rd.ksp
 Anassa Taverna,Upper East Side,Greek,$$,4.4,4.4,4.2,4.2,7857,Moderate,Casual Dining,40.7619879,-73.9659672,https://www.kayak.com/New-York-Restaurants-Anassa-Taverna.100000971.rd.ksp
 Il Corso (New York City),Midtown,Italian,$$,4.7,4.7,4.8,4.5,318,Moderate,Casual Elegant,40.762485,-73.9771512,https://www.kayak.com/New-York-Restaurants-Il-Corso-New-York-City-.101015384.rd.ksp
@@ -537,7 +537,7 @@ Danji,Hell's Kitchen,Korean,$$,4.7,4.7,4.7,4.4,118,Moderate,Casual Dining,40.764
 K Rico South American Steakhouse,Hell's Kitchen,Steakhouse,$$,4.8,4.7,4.9,4.7,102,Moderate,Casual Elegant,40.7643559,-73.9880272,https://www.kayak.com/New-York-Restaurants-K-Rico-South-American-Steakhouse.101009127.rd.ksp
 54 Below,Midtown,American,$$,4.2,4.1,4.3,4.4,379,Moderate,Casual Elegant,40.764451,-73.983671,https://www.kayak.com/New-York-Restaurants-54-Below.101013799.rd.ksp
 Butter Midtown,Midtown,Contemporary American,$$,4.7,4.7,4.6,4.6,328,Moderate,Casual Elegant,40.7646757,-73.9786652,https://www.kayak.com/New-York-Restaurants-Butter-Midtown.100988426.rd.ksp
-Cantina Rooftop,Hell's Kitchen,Mexican,$$,4.1,4.1,4.1,4.0,204,Moderate,Casual Dining,40.7649566,-73.995973,https://www.kayak.com/New-York-Restaurants-Cantina-Rooftop.100049993.rd.ksp
+Cantina Rooftop,Hell's Kitchen,Mexican,$$,4.1,4.1,4.1,4,204,Moderate,Casual Dining,40.7649566,-73.995973,https://www.kayak.com/New-York-Restaurants-Cantina-Rooftop.100049993.rd.ksp
 Quality Meats,Midtown,American,$$,4.7,4.8,4.7,4.6,1051,Moderate,Casual Elegant,40.7650085,-73.9761481,https://www.kayak.com/New-York-Restaurants-Quality-Meats.100018444.rd.ksp
 Trattoria Dell'Arte,Midtown,Italian,$$,4.5,3.5,4.6,4.4,762,Moderate,Casual Elegant,40.7652832,-73.9804165,https://www.kayak.com/New-York-Restaurants-Trattoria-Dell-Arte.100012816.rd.ksp
 Arte Restaurant,Manhattan,Italian,$$,4.8,4.8,4.9,4.7,56,Moderate,Casual Dining,40.7652832,-73.9804165,https://www.kayak.com/New-York-Restaurants-Arte-Restaurant.100013999.rd.ksp
@@ -561,7 +561,7 @@ Joanne Trattoria,Upper West Side,Italian,$$,4.2,4.2,4.3,4.2,173,Moderate,Casual 
 Felice 83,Upper East Side,Italian,$$,4.5,4.4,4.3,4.4,3327,Moderate,Casual Dining,40.7749003,-73.9510928,https://www.kayak.com/New-York-Restaurants-Felice-83.100019127.rd.ksp
 Pitchounette81,Upper East Side,French,$$,4.5,4.4,4.5,4.3,289,Low,Casual Dining,40.774949,-73.9543744,https://www.kayak.com/New-York-Restaurants-Pitchounette81.100049960.rd.ksp
 Central Park Boathouse,Upper East Side,American,$$,4.5,4.3,4.4,4.7,869,Moderate,Casual Elegant,40.7752927,-73.9687693,https://www.kayak.com/New-York-Restaurants-Central-Park-Boathouse.101016886.rd.ksp
-Sole Bistro Italiano,Upper West Side,Italian,$$,4.2,4.2,4.2,4.0,742,Moderate,Casual Elegant,40.7758988,-73.9818528,https://www.kayak.com/New-York-Restaurants-Sole-Bistro-Italiano.100017301.rd.ksp
+Sole Bistro Italiano,Upper West Side,Italian,$$,4.2,4.2,4.2,4,742,Moderate,Casual Elegant,40.7758988,-73.9818528,https://www.kayak.com/New-York-Restaurants-Sole-Bistro-Italiano.100017301.rd.ksp
 Manny's Bistro,Upper West Side,French,$$,4.3,4.3,4.2,4.2,3624,Moderate,Casual Dining,40.7762456,-73.9794042,https://www.kayak.com/New-York-Restaurants-Manny-s-Bistro.100952012.rd.ksp
 Toloache - Upper East Side,Upper East Side,Mexican,$$,4.7,4.7,4.7,4.4,304,Moderate,Casual Dining,40.7764768,-73.9566862,https://www.kayak.com/New-York-Restaurants-Toloache-Upper-East-Side.100036326.rd.ksp
 Luna Rossa Ristorante,Upper East Side,Italian,$$,4.8,4.8,4.9,4.6,92,Moderate,Casual Dining,40.7765177,-73.9503784,https://www.kayak.com/New-York-Restaurants-Luna-Rossa-Ristorante.100018356.rd.ksp
@@ -571,7 +571,7 @@ Sistina,Upper East Side,Italian,$$,4.8,4.8,4.8,4.8,292,Moderate,Fine Dining,40.7
 Jacques Brasserie,Upper East Side,French,$$,4.6,4.6,4.5,4.5,198,Moderate,Casual Dining,40.7778783,-73.9541391,https://www.kayak.com/New-York-Restaurants-Jacques-Brasserie.100986757.rd.ksp
 Arte Cafe - Upper West Side,Upper West Side,Italian,$$,4.4,4.4,4.3,4.5,219,Moderate,Casual Elegant,40.7781493,-73.978758,https://www.kayak.com/New-York-Restaurants-Arte-Cafe-Upper-West-Side.100034841.rd.ksp
 The Met Dining Room,Central Park,Contemporary American,$$,4.3,4.3,4.2,4.2,469,Moderate,Casual Dining,40.7791655,-73.9629278,https://www.kayak.com/New-York-Restaurants-The-Dining-Room-at-The-Metropolitan-Museum-of-Art.100035053.rd.ksp
-Salumeria Rosi,Upper West Side,Italian,$$,4.9,4.9,5.0,4.6,40,Moderate,Casual Elegant,40.7793592,-73.9808591,https://www.kayak.com/New-York-Restaurants-Salumeria-Rosi.100012129.rd.ksp
+Salumeria Rosi,Upper West Side,Italian,$$,4.9,4.9,5,4.6,40,Moderate,Casual Elegant,40.7793592,-73.9808591,https://www.kayak.com/New-York-Restaurants-Salumeria-Rosi.100012129.rd.ksp
 Storico,Upper West Side,Contemporary Italian,$$,4.1,4.1,3.9,4.2,143,Moderate,Casual Elegant,40.779447,-73.9739529,https://www.kayak.com/New-York-Restaurants-Storico.100019445.rd.ksp
 IL Carino Restaurant,Upper East Side,Italian,$$,4.7,4.6,4.8,4.5,26,Moderate,Elegant Dining,40.7794927,-73.9501884,https://www.kayak.com/New-York-Restaurants-IL-Carino-Restaurant.100041140.rd.ksp
 Sushi Yasaka,Upper West Side,Japanese,$$,4.8,4.8,4.5,4.2,443,Moderate,Casual Dining,40.7795706,-73.983463,https://www.kayak.com/New-York-Restaurants-Sushi-Yasaka.100048505.rd.ksp
@@ -587,7 +587,7 @@ Carmine's - 91st Street - NYC,Upper West Side,Italian,$$,4.4,4.5,4.3,4.3,583,Mod
 Numero 28 Pizzeria - UWS,Upper West Side,Pizzeria,$$,4.4,4.5,4.2,3.8,526,Moderate,Casual Dining,40.7917355,-73.9723567,https://www.kayak.com/New-York-Restaurants-Numero-28-Pizzeria-UWS.100024759.rd.ksp
 Baazi,Upper West Side,Indian,$$,4.4,4.5,3.9,3.9,24,Moderate,Casual Dining,40.7955872,-73.9707432,https://www.kayak.com/New-York-Restaurants-Awadh.100005397.rd.ksp
 Minton's Playhouse,Harlem,American,$$,4.4,4.1,4.3,4.6,1887,Moderate,Casual Elegant,40.8047396,-73.9523755,https://www.kayak.com/New-York-Restaurants-Minton-s-Playhouse.100040231.rd.ksp
-The Cecil Steakhouse,Harlem,American,$$,4.2,4.2,4.0,4.2,4469,Moderate,Casual Dining,40.8047682,-73.9525188,https://www.kayak.com/New-York-Restaurants-The-Cecil-Steakhouse.100040230.rd.ksp
+The Cecil Steakhouse,Harlem,American,$$,4.2,4.2,4,4.2,4469,Moderate,Casual Dining,40.8047682,-73.9525188,https://www.kayak.com/New-York-Restaurants-The-Cecil-Steakhouse.100040230.rd.ksp
 Le Monde,Morningside Heights,French,$$,4.5,4.4,4.5,4.4,157,Moderate,Casual Elegant,40.8057929,-73.9658536,https://www.kayak.com/New-York-Restaurants-Le-Monde.100035650.rd.ksp
 Ginny’s Supper Club,Harlem,American,$$,4.4,4.1,4.1,4.6,1331,Moderate,Casual Dining,40.8080989,-73.9447535,https://www.kayak.com/New-York-Restaurants-Ginnys-Supper-Club.100979256.rd.ksp
 Delmonico's,Financial District,Steakhouse,$$$,4.4,3.5,4.3,4.4,14620,Moderate,Casual Elegant,40.705042,-74.0102055,https://www.kayak.com/New-York-Restaurants-Delmonico-s.100016670.rd.ksp
@@ -595,7 +595,7 @@ Reserve Cut,Financial District,Kosher,$$$,4.6,4.6,4.6,4.7,4188,Moderate,Fine Din
 The Capital Grille - NY- Wall Street,Financial District,Steakhouse,$$$,4.5,4.5,4.4,4.4,10712,Moderate,Fine Dining,40.707847,-74.010226,https://www.kayak.com/New-York-Restaurants-The-Capital-Grille-NY-Wall-Street.100013417.rd.ksp
 MarkJoseph Steakhouse,Financial District,Steakhouse,$$$,4.6,4.5,4.8,4.3,61,Moderate,Fine Dining,40.70837,-74.00152,https://www.kayak.com/New-York-Restaurants-MarkJoseph-Steakhouse.100019250.rd.ksp
 Temple Court,Financial District,American,$$$,4.6,4.5,4.6,4.8,58,Moderate,Casual Elegant,40.7113002,-74.0067691,https://www.kayak.com/New-York-Restaurants-Temple-Court.100033173.rd.ksp
-Günter Seeger NY- Kitchen Table,West Village,Contemporary American,$$$,4.8,5.0,4.9,4.8,25,Low,Fine Dining,40.7127753,-74.0059728,https://www.kayak.com/New-York-Restaurants-Guenter-Seeger-NY.100034178.rd.ksp
+Günter Seeger NY- Kitchen Table,West Village,Contemporary American,$$$,4.8,5,4.9,4.8,25,Low,Fine Dining,40.7127753,-74.0059728,https://www.kayak.com/New-York-Restaurants-Guenter-Seeger-NY.100034178.rd.ksp
 The View Restaurant at New York Marriott Marquis,Midtown,Contemporary American,$$$,4.7,3.5,4.8,4.6,137,Moderate,Casual Elegant,40.7127753,-74.0059728,https://www.kayak.com/New-York-Restaurants-The-View-Restaurant-at-New-York-Marriott-Marquis.101006690.rd.ksp
 Nusr-Et Steakhouse New York,Midtown,Steakhouse,$$$,4.6,4.6,4.6,4.6,299,Moderate,Casual Elegant,40.7127753,-74.0059728,https://www.kayak.com/New-York-Restaurants-Nusr-Et-Steakhouse-New-York.101008879.rd.ksp
 Marc Forgione,Tribeca,Contemporary American,$$$,4.6,4.6,4.5,4.5,11114,Moderate,Fine Dining,40.7164938,-74.0096073,https://www.kayak.com/New-York-Restaurants-Marc-Forgione.101010361.rd.ksp
@@ -621,7 +621,7 @@ Il Cantinori,Manhattan,Italian,$$$,4.8,4.7,4.8,4.8,282,Moderate,Fine Dining,40.7
 Babbo Ristorante,Manhattan,Italian,$$$,4.7,4.7,4.7,4.5,466,Moderate,Casual Elegant,40.7323821,-73.9991969,https://www.kayak.com/New-York-Restaurants-Babbo-Ristorante.100011043.rd.ksp
 "One if by Land, Two if by Sea",West Village,American,$$$,4.7,4.6,4.8,4.8,313,Moderate,Fine Dining,40.732548,-74.0026278,https://www.kayak.com/New-York-Restaurants-One-if-by-Land-Two-if-by-Sea.100013252.rd.ksp
 Omakase Room by Tatsu,West Village,Japanese,$$$,4.8,4.8,4.9,4.6,1114,Low,Fine Dining,40.733832,-74.000429,https://www.kayak.com/New-York-Restaurants-Omakase-Room.100039605.rd.ksp
-Casa La Femme,West Village,Egyptian,$$$,4.1,4.0,3.9,4.4,1500,Moderate,Casual Elegant,40.7339454,-74.0081223,https://www.kayak.com/New-York-Restaurants-Casa-La-Femme.100018785.rd.ksp
+Casa La Femme,West Village,Egyptian,$$$,4.1,4,3.9,4.4,1500,Moderate,Casual Elegant,40.7339454,-74.0081223,https://www.kayak.com/New-York-Restaurants-Casa-La-Femme.100018785.rd.ksp
 Strip House,Manhattan,Steak,$$$,4.8,4.8,4.7,4.7,335,Moderate,Fine Dining,40.73446765,-73.99334274,https://www.kayak.com/New-York-Restaurants-Strip-House.100012905.rd.ksp
 Craft,Gramercy,American,$$$,4.7,4.7,4.7,4.7,356,Moderate,Casual Elegant,40.7381171,-73.9886874,https://www.kayak.com/New-York-Restaurants-Craft.100010879.rd.ksp
 Mari Vanna,Gramercy,Eastern European,$$$,4.7,4.7,4.7,4.8,203,Moderate,Casual Elegant,40.7387966,-73.9885656,https://www.kayak.com/New-York-Restaurants-Mari-Vanna.100013458.rd.ksp
@@ -640,7 +640,7 @@ Dons Bogam Black,Midtown,Korean,$$$,4.4,4.5,4.4,4.3,145,Moderate,Casual Elegant,
 Wolfgang's Steak House - 54th Street,Midtown,Steakhouse,$$$,4.6,4.6,4.7,4.4,155,Moderate,Elegant Dining,40.7466662,-73.9819629,https://www.kayak.com/New-York-Restaurants-Wolfgang-s-Steak-House-54th-Street.100014762.rd.ksp
 Wolfgang's Steak House - Park Avenue,Midtown,Steakhouse,$$$,4.7,4.8,4.6,4.5,417,Moderate,Casual Dining,40.7466662,-73.9819629,https://www.kayak.com/New-York-Restaurants-Wolfgang-s-Steak-House-Park-Avenue.101010037.rd.ksp
 GAONNURI,Midtown,Korean,$$$,4.7,4.7,4.7,4.8,541,Moderate,Elegant Dining,40.7478213,-73.9878356,https://www.kayak.com/New-York-Restaurants-GAONNURI.101014034.rd.ksp
-Tempura Matsui,Midtown,Japanese,$$$,4.9,4.9,5.0,4.9,101,Moderate,Fine Dining,40.748279,-73.9748775,https://www.kayak.com/New-York-Restaurants-Tempura-Matsui.101012222.rd.ksp
+Tempura Matsui,Midtown,Japanese,$$$,4.9,4.9,5,4.9,101,Moderate,Fine Dining,40.748279,-73.9748775,https://www.kayak.com/New-York-Restaurants-Tempura-Matsui.101012222.rd.ksp
 OCabanon,Chelsea,French,$$$,4.2,4.3,4.2,4.1,2327,Moderate,Casual Elegant,40.7487031,-73.9945308,https://www.kayak.com/New-York-Restaurants-OCabanon.100004097.rd.ksp
 Royal 35 Steakhouse,Midtown,Steakhouse,$$$,4.7,4.7,4.8,4.7,118,Moderate,Fine Dining,40.7489862,-73.9834638,https://www.kayak.com/New-York-Restaurants-Royal-35-Steakhouse.101015461.rd.ksp
 Toledo Restaurant,Midtown,Spanish,$$$,4.7,4.8,4.8,4.7,33,Moderate,Fine Dining,40.7493423,-73.9830385,https://www.kayak.com/New-York-Restaurants-Toledo-Restaurant.101017768.rd.ksp
@@ -649,7 +649,7 @@ Kajitsu,Midtown,Japanese,$$$,4.9,4.8,4.9,4.8,118,Moderate,Fine Dining,40.7497944
 La Brochette Kosher Steakhouse,Midtown,Kosher,$$$,4.3,4.4,4.4,4.1,563,Moderate,Fine Dining,40.7498776,-73.9774856,https://www.kayak.com/New-York-Restaurants-La-Brochette-Kosher-Steakhouse.100002272.rd.ksp
 The Flatiron Room - Murray Hill,Midtown,American,$$$,4.5,4.3,4.4,4.7,304,Moderate,Casual Elegant,40.7501584,-73.9821945,https://www.kayak.com/New-York-Restaurants-Fine-Rare.100033948.rd.ksp
 Benjamin Steakhouse Prime,Midtown,Steakhouse,$$$,4.7,4.7,4.7,4.6,325,Moderate,Casual Elegant,40.7514456,-73.9796474,https://www.kayak.com/New-York-Restaurants-Benjamin-Steakhouse-Prime.101008776.rd.ksp
-The Palm Too,Midtown,Steakhouse,$$$,4.4,4.4,4.4,4.0,9032,Moderate,Fine Dining,40.751462,-73.9706661,https://www.kayak.com/New-York-Restaurants-The-Palm-Too.100047460.rd.ksp
+The Palm Too,Midtown,Steakhouse,$$$,4.4,4.4,4.4,4,9032,Moderate,Fine Dining,40.751462,-73.9706661,https://www.kayak.com/New-York-Restaurants-The-Palm-Too.100047460.rd.ksp
 MIFUNE New York,Midtown,French / Japanese,$$$,4.5,4.4,4.6,4.5,94,Moderate,Casual Elegant,40.7516551,-73.9717638,https://www.kayak.com/New-York-Restaurants-MIFUNE-New-York.100042521.rd.ksp
 Ben and Jack's Steakhouse 44th Street,Midtown,Steakhouse,$$$,4.5,4.6,4.5,4.3,83,Moderate,Fine Dining,40.7518393,-73.9723304,https://www.kayak.com/New-York-Restaurants-Ben-and-Jack-s-Steakhouse-44th-Street.100040258.rd.ksp
 Sushi Ginza Onodera - NYC,Midtown,Sushi,$$$,4.8,4.8,4.8,4.7,2926,Low,Fine Dining,40.7523763,-73.9814434,https://www.kayak.com/New-York-Restaurants-Sushi-Ginza-Onodera-NYC.100030973.rd.ksp
@@ -672,7 +672,7 @@ Mike's Bistro - UES,Midtown,Kosher,$$$,4.8,4.8,4.9,4.7,77,Moderate,Fine Dining,4
 Bob's Steak & Chop House - New York,Midtown,Steakhouse,$$$,4.5,4.4,4.6,4.3,1044,Low,Casual Elegant,40.7594554,-73.9750815,https://www.kayak.com/New-York-Restaurants-Bob-s-Steak-Chop-House-New-York.100032606.rd.ksp
 Limani - NYC,Midtown,Mediterranean,$$$,4.6,4.6,4.6,4.7,505,Moderate,Fine Dining,40.7596918,-73.978275,https://www.kayak.com/New-York-Restaurants-Limani-NYC.101013446.rd.ksp
 Empellon Midtown,Midtown,Contemporary Mexican,$$$,4.5,4.5,4.5,4.4,7467,Moderate,Casual Dining,40.7597022,-73.9746995,https://www.kayak.com/New-York-Restaurants-Empellon-Midtown.100038361.rd.ksp
-The Theater Buffet,Hell's Kitchen,International,$$$,3.7,3.6,3.9,4.0,110,Moderate,Casual Dining,40.7601956,-73.9878844,https://www.kayak.com/New-York-Restaurants-The-Theater-Buffet.100049813.rd.ksp
+The Theater Buffet,Hell's Kitchen,International,$$$,3.7,3.6,3.9,4,110,Moderate,Casual Dining,40.7601956,-73.9878844,https://www.kayak.com/New-York-Restaurants-The-Theater-Buffet.100049813.rd.ksp
 San Pietro,Midtown,Italian,$$$,4.6,4.6,4.8,4.7,70,Moderate,Casual Elegant,40.7602607,-73.9744133,https://www.kayak.com/New-York-Restaurants-San-Pietro.100030367.rd.ksp
 Upstairs at '21',Midtown,American,$$$,4.6,4.6,4.7,4.6,396,Low,Fine Dining,40.7604522,-73.9774394,https://www.kayak.com/New-York-Restaurants-Upstairs-at-21-.100032371.rd.ksp
 Lattanzi,Hell's Kitchen,Italian,$$$,4.6,4.6,4.6,4.6,385,Moderate,Casual Elegant,40.7605821,-73.9901543,https://www.kayak.com/New-York-Restaurants-Lattanzi.100017570.rd.ksp
@@ -690,11 +690,11 @@ Harry Cipriani,Upper East Side,Italian,$$$,4.7,4.6,4.6,4.6,516,Moderate,Fine Din
 Avra Madison Estiatorio on 60th,Upper East Side,Mediterranean,$$$,4.7,4.7,4.6,4.7,22408,Moderate,Casual Elegant,40.7644065,-73.9717268,https://www.kayak.com/New-York-Restaurants-Avra-Madison-Estiatorio-on-60th.100031540.rd.ksp
 Empire Steakhouse - 237 West 54 Street off of Broadway,Midtown,Steakhouse,$$$,4.6,4.7,4.7,4.4,116,Moderate,Fine Dining,40.7644256,-73.9831208,https://www.kayak.com/New-York-Restaurants-Empire-Steakhouse-237-West-54-Street-off-of-Broadway.101009572.rd.ksp
 Print Restaurant,Hell's Kitchen,Unspecified,$$$,4.5,4.4,4.5,4.6,117,Moderate,Casual Elegant,40.764568,-73.995992,https://www.kayak.com/New-York-Restaurants-Print-Restaurant.100014053.rd.ksp
-La Goulue New York,Upper East Side,French,$$$,4.8,4.0,4.8,4.7,386,Moderate,Elegant Dining,40.7648,-73.9699213,https://www.kayak.com/New-York-Restaurants-La-Goulue.100046828.rd.ksp
+La Goulue New York,Upper East Side,French,$$$,4.8,4,4.8,4.7,386,Moderate,Elegant Dining,40.7648,-73.9699213,https://www.kayak.com/New-York-Restaurants-La-Goulue.100046828.rd.ksp
 Gabriel's Bar & Restaurant,Midtown,Italian,$$$,4.8,4.8,4.8,4.8,108,Moderate,Fine Dining,40.7651362,-73.9757026,https://www.kayak.com/New-York-Restaurants-Gabriel-s-Bar-Restaurant.100949702.rd.ksp
 Tuscany Steakhouse,Midtown,Steakhouse,$$$,4.7,4.8,4.8,4.5,92,Moderate,Casual Dining,40.7654611,-73.9772654,https://www.kayak.com/New-York-Restaurants-Tuscany-Steakhouse.101008849.rd.ksp
 The Pembroke Room - The Lowell New York,Upper East Side,Contemporary American,$$$,4.5,4.3,4.5,4.6,1356,Low,Fine Dining,40.7657388,-73.9692216,https://www.kayak.com/New-York-Restaurants-The-Pembroke-Room-The-Lowell-New-York.100015583.rd.ksp
-Café Pierre,Upper East Side,French,$$$,4.0,4.4,4.0,4.0,1,Low,Casual Dining,40.7671831,-73.9720578,https://www.kayak.com/New-York-Restaurants-Cafe-Pierre.100848137.rd.ksp
+Café Pierre,Upper East Side,French,$$$,4,4.4,4,4,1,Low,Casual Dining,40.7671831,-73.9720578,https://www.kayak.com/New-York-Restaurants-Cafe-Pierre.100848137.rd.ksp
 Bar Masa,Upper West Side,Japanese,$$$,4.8,3.5,4.9,4.7,211,Moderate,Fine Dining,40.7688151,-73.9827737,https://www.kayak.com/New-York-Restaurants-Bar-Masa.100036398.rd.ksp
 Porter House Bar and Grill,Midtown,American,$$$,4.6,4.6,4.5,4.6,464,Moderate,Casual Elegant,40.768882,-73.98263,https://www.kayak.com/New-York-Restaurants-Porter-House-Bar-and-Grill.100019419.rd.ksp
 YEFSI,Upper East Side,Greek,$$$,4.4,4.4,4.3,4.2,109,Moderate,Casual Dining,40.7710056,-73.9509459,https://www.kayak.com/New-York-Restaurants-YEFSI.100019922.rd.ksp
@@ -707,6 +707,6 @@ Armani Ristorante 5th Avenue,Midtown,Italian,$$$,4.9,4.8,4.9,4.9,93,Moderate,Fin
 Kappo Masa,Upper East Side,Japanese,$$$,4.6,4.7,4.6,4.7,172,Moderate,Casual Elegant,40.7746686,-73.9635421,https://www.kayak.com/New-York-Restaurants-Kappo-Masa.100006130.rd.ksp
 Sugar Factory Broadway,Upper West Side,American,$$$,3.8,3.7,3.8,3.8,10900,Moderate,Casual Dining,40.7752266,-73.9826067,https://www.kayak.com/New-York-Restaurants-Sugar-Factory-Broadway.101028307.rd.ksp
 Sant Ambroeus - Madison Avenue,Upper East Side,Italian,$$$,4.6,4.5,4.5,4.4,4916,Moderate,Casual Elegant,40.7754041,-73.9629918,https://www.kayak.com/New-York-Restaurants-Sant-Ambroeus-Madison-Avenue.100005011.rd.ksp
-Sushi Kaito,Upper West Side,Sushi,$$$,4.9,5.0,4.9,4.7,148,Moderate,Casual Dining,40.7791774,-73.9836409,https://www.kayak.com/New-York-Restaurants-Sushi-Kaito.101011991.rd.ksp
+Sushi Kaito,Upper West Side,Sushi,$$$,4.9,5,4.9,4.7,148,Moderate,Casual Dining,40.7791774,-73.9836409,https://www.kayak.com/New-York-Restaurants-Sushi-Kaito.101011991.rd.ksp
 Sushi of Gari - Columbus Avenue,Upper West Side,Sushi,$$$,4.8,4.8,4.7,4.3,170,Moderate,Fine Dining,40.7811711,-73.9763398,https://www.kayak.com/New-York-Restaurants-Sushi-of-Gari-Columbus-Avenue.100014834.rd.ksp
 Sushi Inoue,Harlem,Sushi,$$$,4.5,4.7,4.5,4.1,932,Low,Fine Dining,40.8108361,-73.9435614,https://www.kayak.com/New-York-Restaurants-Sushi-Inoue.100042901.rd.ksp
